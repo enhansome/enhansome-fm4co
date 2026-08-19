@@ -1,19 +1,9 @@
 {
-  "items": [
-    {
-      "description": "Most research utilizes existing FMs from language and vision domains to generate/improve solutions* or algorithms* (hyper-heuristic), yielding impressive results when integrated with problem-specific heuristics or general meta-heuristics. Other studies employ LLMs to investigate the interpretability* of COP solvers, automate problem formulation*, or simplify the use of domain-specific tools through text prompts. Given the capabilities of LLMs, this area of research is likely to garner increasing interest.",
-      "items": [],
-      "title": "LLMs for Combinatorial Optimization"
-    },
-    {
-      "description": "Developing a domain FM capable of solving a wide range of COPs presents an intriguing and formidable challenge. Recent efforts in this area aim towards this ambitious goal by creating a unified architecture or representation applicable across various COPs.",
-      "items": [],
-      "title": "Domain FMs for Combinatorial Optimization"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T22:46:00.934Z",
+    "last_updated": "2026-08-19T12:27:41.333Z",
     "original_repository": "ai4co/awesome-fm4co",
+    "original_repository_id": 768441087,
     "original_repository_sha": "c738ca2ec0ce6eb6dd7c052b374e2ee679ec2d95",
     "enhanced_repository": "enhansome/enhansome-fm4co",
     "enhanced_repository_description": null,
