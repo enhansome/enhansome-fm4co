@@ -120,7 +120,7 @@
             "last_commit": "2024-02-05T10:32:18Z",
             "owner": "google-deepmind",
             "repo": "funsearch",
-            "stars": 1109
+            "stars": 1110
           }
         },
         {
@@ -555,7 +555,7 @@
             "last_commit": "2026-07-18T13:16:12Z",
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7264
+            "stars": 7268
           }
         },
         {
@@ -777,10 +777,10 @@
             "archived": false,
             "id": 1160689201,
             "language": "Python",
-            "last_commit": "2026-08-25T03:27:56Z",
+            "last_commit": "2026-08-25T20:18:41Z",
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 617
+            "stars": 618
           }
         },
         {
@@ -792,10 +792,10 @@
             "archived": false,
             "id": 1160689201,
             "language": "Python",
-            "last_commit": "2026-08-25T03:27:56Z",
+            "last_commit": "2026-08-25T20:18:41Z",
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 617
+            "stars": 618
           }
         },
         {
@@ -1139,7 +1139,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:14:22.618Z",
+    "last_updated": "2026-08-25T22:50:19.604Z",
     "original_repository": "ai4co/awesome-fm4co",
     "original_repository_id": 768441087,
     "original_repository_sha": "c738ca2ec0ce6eb6dd7c052b374e2ee679ec2d95",
