@@ -5,8 +5,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2023.07",
-          "description": "Large Language Models for Supply Chain Optimization arXiv Algorithm w. Interpretability",
+          "title": "OptiGuide",
+          "description": "Large Language Models for Supply Chain Optimization  arXiv Algorithm w. Interpretability",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -20,8 +20,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023.09",
-          "description": "Can Language Models Solve Graph Problems in Natural Language? NeurIPS 2023 Solution",
+          "title": "NLGraph",
+          "description": "Can Language Models Solve Graph Problems in Natural Language?  NeurIPS 2023 Solution",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -35,8 +35,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023.09",
-          "description": "Large Language Models as Optimizers ICLR 2024 Solution",
+          "title": "opro",
+          "description": "Large Language Models as Optimizers  ICLR 2024 Solution",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -50,8 +50,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023.10",
-          "description": "Chain-of-Experts: When LLMs Meet Complex Operations Research Problems ICLR 2024 Formulation",
+          "title": "Chain-of-Experts",
+          "description": "Chain-of-Experts: When LLMs Meet Complex Operations Research Problems  ICLR 2024 Formulation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -65,8 +65,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023.10",
-          "description": "OptiMUS: Scalable Optimization Modeling with (MI)LP Solvers and Large Language Models ICML 2024 Formulation",
+          "title": "OptiMUS",
+          "description": "OptiMUS: Scalable Optimization Modeling with (MI)LP Solvers and Large Language Models  ICML 2024 Formulation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -80,8 +80,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023.10",
-          "description": "AI-Copilot for Business Optimisation: A Framework and A Case Study in Production Scheduling arXiv Formulation",
+          "title": "AI-Copilot-Data",
+          "description": "AI-Copilot for Business Optimisation: A Framework and A Case Study in Production Scheduling  arXiv Formulation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -95,8 +95,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023.11",
-          "description": "Large Language Models as Evolutionary Optimizers CEC 2024 Solution",
+          "title": "LMEA",
+          "description": "Large Language Models as Evolutionary Optimizers  CEC 2024 Solution",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -110,8 +110,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023.12",
-          "description": "Mathematical discoveries from program search with large language models Nature Algorithm",
+          "title": "funsearch",
+          "description": "Mathematical discoveries from program search with large language models  Nature Algorithm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -125,8 +125,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023.12",
-          "description": "NPHardEval: Dynamic Benchmark on Reasoning Ability of Large Language Models via Complexity Classes ACL 2024 Benchmark",
+          "title": "NPHardEval",
+          "description": "NPHardEval: Dynamic Benchmark on Reasoning Ability of Large Language Models via Complexity Classes  ACL 2024 Benchmark",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -140,8 +140,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024.02",
-          "description": "ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution NeurIPS 2024 Algorithm",
+          "title": "reevo",
+          "description": "ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution  NeurIPS 2024 Algorithm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -155,8 +155,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024.03",
-          "description": "RouteExplainer: An Explanation Framework for Vehicle Routing Problem PAKDD 2024 Interpretability",
+          "title": "route-explainer",
+          "description": "RouteExplainer: An Explanation Framework for Vehicle Routing Problem  PAKDD 2024 Interpretability",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -170,8 +170,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024.03",
-          "description": "Can Large Language Models Solve Robot Routing? arXiv Algorithm",
+          "title": "LLM_Routing",
+          "description": "Can Large Language Models Solve Robot Routing?  arXiv Algorithm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -185,8 +185,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024.05",
-          "description": "Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model ICML 2024 Algorithm",
+          "title": "EoH",
+          "description": "Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model  ICML 2024 Algorithm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -200,8 +200,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024.05",
-          "description": "ORLM: Training Large Language Models for Optimization Modeling Operations Research Formulation",
+          "title": "ORLM",
+          "description": "ORLM: Training Large Language Models for Optimization Modeling  Operations Research Formulation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -210,13 +210,13 @@
             "last_commit": "2025-09-18T07:45:28Z",
             "owner": "Cardinal-Operations",
             "repo": "ORLM",
-            "stars": 274
+            "stars": 275
           }
         },
         {
           "node_type": "item",
-          "title": "2024.05",
-          "description": "Self-Guiding Exploration for Combinatorial Problems NeurIPS 2024 Solution",
+          "title": "LLM-for-CP",
+          "description": "Self-Guiding Exploration for Combinatorial Problems  NeurIPS 2024 Solution",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -230,8 +230,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024.07",
-          "description": "Visual Reasoning and Multi-Agent Approach in Multimodal Large Language Models (MLLMs): Solving TSP and mTSP Combinatorial Challenges 2024 MDPI MAKE Solution",
+          "title": "Solving-TSP-and-mTSP-Combinatorial-Challenges-using-Visual-Reasoning-and-Multi-Agent-Approach-MLLMs-",
+          "description": "Visual Reasoning and Multi-Agent Approach in Multimodal Large Language Models (MLLMs): Solving TSP and mTSP Combinatorial Challenges  2024 MDPI MAKE Solution",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -245,8 +245,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024.08",
-          "description": "LLMs can Schedule arXiv Solution",
+          "title": "datasetjsp",
+          "description": "LLMs can Schedule  arXiv Solution",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -260,8 +260,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024.10",
-          "description": "Automatic programming via large language models with population self-evolution for dynamic job shop scheduling problem IEEE Trans. Fuzzy Syst. Algorithm",
+          "title": "LHH_DFJSP_SeEvo",
+          "description": "Automatic programming via large language models with population self-evolution for dynamic job shop scheduling problem  IEEE Trans. Fuzzy Syst. Algorithm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -275,8 +275,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024.12",
-          "description": "HSEvo: Elevating Automatic Heuristic Design with Diversity-Driven Harmony Search and Genetic Algorithm Using LLMs AAAI 2025 Algorithm",
+          "title": "HSEvo",
+          "description": "HSEvo: Elevating Automatic Heuristic Design with Diversity-Driven Harmony Search and Genetic Algorithm Using LLMs  AAAI 2025 Algorithm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -290,8 +290,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024.12",
-          "description": "Evaluating LLM Reasoning in the Operations Research Domain with ORQA AAAI 2025 Benchmark",
+          "title": "ORQA",
+          "description": "Evaluating LLM Reasoning in the Operations Research Domain with ORQA  AAAI 2025 Benchmark",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -305,8 +305,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024.12",
-          "description": "QUBE: Enhancing Automatic Heuristic Design via Quality-Uncertainty Balanced Evolution arxiv Algorithm",
+          "title": "QUBE_code",
+          "description": "QUBE: Enhancing Automatic Heuristic Design via Quality-Uncertainty Balanced Evolution  arxiv Algorithm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -320,8 +320,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025.01",
-          "description": "Monte Carlo Tree Search for Comprehensive Exploration in LLM-Based Automatic Heuristic Design ICML 2025 Algorithm",
+          "title": "MCTS-AHD-master",
+          "description": "Monte Carlo Tree Search for Comprehensive Exploration in LLM-Based Automatic Heuristic Design  ICML 2025 Algorithm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -335,8 +335,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025.02",
-          "description": "EquivaMap: Leveraging LLMs for Automatic Equivalence Checking of Optimization Formulations arXiv Algorithm",
+          "title": "EquivaMap",
+          "description": "EquivaMap: Leveraging LLMs for Automatic Equivalence Checking of Optimization Formulations  arXiv Algorithm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -350,8 +350,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025.02",
-          "description": "ARS: Automatic Routing Solver with Large Language Models arXiv Benchmark & Algorithm",
+          "title": "ARS-Routbench",
+          "description": "ARS: Automatic Routing Solver with Large Language Models  arXiv Benchmark & Algorithm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -365,8 +365,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025.02",
-          "description": "GraphArena: Evaluating and Exploring Large Language Models on Graph Computation ICLR 2025 Benchmark & Dataset & Model",
+          "title": "GraphArena",
+          "description": "GraphArena: Evaluating and Exploring Large Language Models on Graph Computation  ICLR 2025 Benchmark & Dataset & Model",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -380,8 +380,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025.03",
-          "description": "Leveraging Large Language Models to Develop Heuristics for Emerging Optimization Problems arXiv Algorithm",
+          "title": "contextual-evolution-of-heuristics",
+          "description": "Leveraging Large Language Models to Develop Heuristics for Emerging Optimization Problems  arXiv Algorithm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -395,8 +395,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025.03",
-          "description": "OR-LLM-Agent: Automating Modeling and Solving of Operations Research Optimization Problem with Reasoning Large Language Model arXiv Formulation",
+          "title": "or_llm_agent",
+          "description": "OR-LLM-Agent: Automating Modeling and Solving of Operations Research Optimization Problem with Reasoning Large Language Model  arXiv Formulation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -410,8 +410,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025.03",
-          "description": "Combinatorial Optimization for All: Using LLMs to Aid Non-Experts in Improving Optimization Algorithms Inteligencia Artificial 2026 Algorithm",
+          "title": "comb-opt-for-all",
+          "description": "Combinatorial Optimization for All: Using LLMs to Aid Non-Experts in Improving Optimization Algorithms  Inteligencia Artificial 2026 Algorithm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -425,8 +425,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025.04",
-          "description": "Large Language Models powered Neural Solvers for Generalized Vehicle Routing Problems ICLR 2025 Workshop AgenticAI Algorithm",
+          "title": "NCO-LLM",
+          "description": "Large Language Models powered Neural Solvers for Generalized Vehicle Routing Problems  ICLR 2025 Workshop AgenticAI Algorithm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -440,8 +440,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025.05",
-          "description": "Efficient Heuristics Generation for Solving Combinatorial Optimization Problems Using Large Language Models KDD 2025 Algorithm",
+          "title": "Hercules",
+          "description": "Efficient Heuristics Generation for Solving Combinatorial Optimization Problems Using Large Language Models  KDD 2025 Algorithm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -455,8 +455,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025.05",
-          "description": "Large Language Model-driven Large Neighborhood Search for Large-Scale MILP Problems ICML 2025 Algorithm",
+          "title": "LLM-LNS",
+          "description": "Large Language Model-driven Large Neighborhood Search for Large-Scale MILP Problems  ICML 2025 Algorithm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -470,8 +470,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025.05",
-          "description": "Solver-Informed RL: Grounding Large Language Models for Authentic Optimization Modeling NeurIPS 2025 Formulation",
+          "title": "SIRL",
+          "description": "Solver-Informed RL: Grounding Large Language Models for Authentic Optimization Modeling  NeurIPS 2025 Formulation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -485,8 +485,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025.06",
-          "description": "ORMind: A Cognitive-Inspired End-to-End Reasoning Framework for Operations Research ACL 2025 Formulation",
+          "title": "ORMind",
+          "description": "ORMind: A Cognitive-Inspired End-to-End Reasoning Framework for Operations Research  ACL 2025 Formulation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -500,8 +500,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025.06",
-          "description": "HeuriGym: An Agentic Benchmark for LLM-Crafted Heuristics in Combinatorial Optimization ICLR 2026 Benchmark",
+          "title": "heurigym",
+          "description": "HeuriGym: An Agentic Benchmark for LLM-Crafted Heuristics in Combinatorial Optimization  ICLR 2026 Benchmark",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -515,8 +515,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025.06",
-          "description": "ALE-Bench: A Benchmark for Long-Horizon Objective-Driven Algorithm Engineering NeurIPS 2025 Datasets and Benchmarks Track Benchmark",
+          "title": "ALE-Bench",
+          "description": "ALE-Bench: A Benchmark for Long-Horizon Objective-Driven Algorithm Engineering  NeurIPS 2025 Datasets and Benchmarks Track Benchmark",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -530,8 +530,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025.06",
-          "description": "OPT-BENCH: Evaluating LLM Agent on Large-Scale Search Spaces Optimization Problems arXiv Benchmark",
+          "title": "OPT-BENCH",
+          "description": "OPT-BENCH: Evaluating LLM Agent on Large-Scale Search Spaces Optimization Problems  arXiv Benchmark",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -545,8 +545,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025.06",
-          "description": "OpenEvolve: an open-source evolutionary coding agent GitHub Algorithm",
+          "title": "openevolve",
+          "description": "OpenEvolve: an open-source evolutionary coding agent  GitHub Algorithm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -560,8 +560,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025.06",
-          "description": "HeurAgenix: Leveraging LLMs for Solving Complex Combinatorial Optimization Challenges arXiv Algorithm",
+          "title": "HeurAgenix",
+          "description": "HeurAgenix: Leveraging LLMs for Solving Complex Combinatorial Optimization Challenges  arXiv Algorithm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -575,8 +575,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025.07",
-          "description": "MeLA: A Metacognitive LLM-Driven Architecture for Automatic Heuristic Design arXiv Algorithm",
+          "title": "MeLA",
+          "description": "MeLA: A Metacognitive LLM-Driven Architecture for Automatic Heuristic Design  arXiv Algorithm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -590,8 +590,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025.07",
-          "description": "Pareto-Grid-Guided Large Language Models for Fast and High-Quality Heuristics Design in Multi-Objective Combinatorial Optimization AAAI 2026 Algorithm",
+          "title": "MPaGE",
+          "description": "Pareto-Grid-Guided Large Language Models for Fast and High-Quality Heuristics Design in Multi-Objective Combinatorial Optimization  AAAI 2026 Algorithm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -605,8 +605,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025.08",
-          "description": "EvoCut: Strengthening Integer Programs via Evolution-Guided Language Models arxiv Formulation",
+          "title": "EvoCut",
+          "description": "EvoCut: Strengthening Integer Programs via Evolution-Guided Language Models  arxiv Formulation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -620,8 +620,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025.08",
-          "description": "MOTIF: Multi-strategy Optimization via Turn-based Interactive Framework AAAI 2026 Algorithm",
+          "title": "MOTIF",
+          "description": "MOTIF: Multi-strategy Optimization via Turn-based Interactive Framework  AAAI 2026 Algorithm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -635,8 +635,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025.09",
-          "description": "Large Language Models as End-to-end Combinatorial Optimization Solvers NeurIPS 2025 Solution",
+          "title": "LLMCoSolver",
+          "description": "Large Language Models as End-to-end Combinatorial Optimization Solvers  NeurIPS 2025 Solution",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -650,8 +650,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025.09",
-          "description": "ShinkaEvolve: Towards Open-Ended And Sample-Efficient Program Evolution ICLR 2026 Algorithm",
+          "title": "ShinkaEvolve",
+          "description": "ShinkaEvolve: Towards Open-Ended And Sample-Efficient Program Evolution  ICLR 2026 Algorithm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -665,8 +665,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025.10",
-          "description": "VRPAgent: LLM-Driven Discovery of Heuristic Operators for Vehicle Routing Problems arxiv Algorithm",
+          "title": "vrpagent",
+          "description": "VRPAgent: LLM-Driven Discovery of Heuristic Operators for Vehicle Routing Problems  arxiv Algorithm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -680,8 +680,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025.10",
-          "description": "CodeEvolve: an open source evolutionary coding agent for algorithm discovery and optimization arXiv Algorithm",
+          "title": "science-codeevolve",
+          "description": "CodeEvolve: an open source evolutionary coding agent for algorithm discovery and optimization  arXiv Algorithm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -695,8 +695,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025.10",
-          "description": "OptiTree: Hierarchical Thoughts Generation with Tree Search for LLM Optimization Modeling NeurIPS 2025 Formulation",
+          "title": "OptiTree",
+          "description": "OptiTree: Hierarchical Thoughts Generation with Tree Search for LLM Optimization Modeling  NeurIPS 2025 Formulation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -710,8 +710,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025.11",
-          "description": "Bridging Synthetic and Real Routing Problems via LLM-Guided Instance Generation and Progressive Adaptation AAAI 2026 Algorithm",
+          "title": "EvoReal",
+          "description": "Bridging Synthetic and Real Routing Problems via LLM-Guided Instance Generation and Progressive Adaptation  AAAI 2026 Algorithm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -725,8 +725,8 @@
         },
         {
           "node_type": "item",
-          "title": "2026.01",
-          "description": "Algorithmic Prompt-Augmentation for Efficient LLM-Based Heuristic Design for A* Search arxiv Algorithm",
+          "title": "a-ceoh-evolution-of-heuristics",
+          "description": "Algorithmic Prompt-Augmentation for Efficient LLM-Based Heuristic Design for A* Search  arxiv Algorithm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -740,8 +740,8 @@
         },
         {
           "node_type": "item",
-          "title": "2026.02",
-          "description": "G-LNS: Generative Large Neighborhood Search for LLM-Based Automatic Heuristic Design arxiv Algorithm",
+          "title": "G-LNS",
+          "description": "G-LNS: Generative Large Neighborhood Search for LLM-Based Automatic Heuristic Design  arxiv Algorithm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -755,8 +755,8 @@
         },
         {
           "node_type": "item",
-          "title": "2026.02",
-          "description": "OR-Agent: Bridging Evolutionary Search and Structured Research for Automated Algorithm Discovery arxiv Solution",
+          "title": "OR-Agent",
+          "description": "OR-Agent: Bridging Evolutionary Search and Structured Research for Automated Algorithm Discovery  arxiv Solution",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -770,14 +770,14 @@
         },
         {
           "node_type": "item",
-          "title": "2026.02",
-          "description": "AdaEvolve: Adaptive LLM Driven Zeroth-Order Optimization arxiv Algorithm",
+          "title": "skydiscover",
+          "description": "AdaEvolve: Adaptive LLM Driven Zeroth-Order Optimization  arxiv Algorithm",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1160689201,
             "language": "Python",
-            "last_commit": "2026-08-18T23:13:18Z",
+            "last_commit": "2026-08-25T03:27:56Z",
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
             "stars": 617
@@ -785,14 +785,14 @@
         },
         {
           "node_type": "item",
-          "title": "2026.02",
-          "description": "EvoX: Meta-Evolution for Automated Discovery arxiv Algorithm",
+          "title": "skydiscover",
+          "description": "EvoX: Meta-Evolution for Automated Discovery  arxiv Algorithm",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1160689201,
             "language": "Python",
-            "last_commit": "2026-08-18T23:13:18Z",
+            "last_commit": "2026-08-25T03:27:56Z",
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
             "stars": 617
@@ -800,8 +800,8 @@
         },
         {
           "node_type": "item",
-          "title": "2026.03",
-          "description": "From Heuristic Selection to Automated Algorithm Design: LLMs Benefit from Strong Priors arxiv Method",
+          "title": "BAG",
+          "description": "From Heuristic Selection to Automated Algorithm Design: LLMs Benefit from Strong Priors  arxiv Method",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -815,8 +815,8 @@
         },
         {
           "node_type": "item",
-          "title": "2026.04",
-          "description": "PyVRP^+: LLM-Driven Metacognitive Heuristic Evolution for Hybrid Genetic Search in Vehicle Routing Problems AAMAS 2026 Algorithm",
+          "title": "pyvrp-code",
+          "description": "PyVRP^+: LLM-Driven Metacognitive Heuristic Evolution for Hybrid Genetic Search in Vehicle Routing Problems  AAMAS 2026 Algorithm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -830,8 +830,8 @@
         },
         {
           "node_type": "item",
-          "title": "2026.04",
-          "description": "Co-evolving Agent Architectures and Interpretable Reasoning for Automated Optimization arXiv Formulation",
+          "title": "2026HuangEvoORAgent",
+          "description": "Co-evolving Agent Architectures and Interpretable Reasoning for Automated Optimization  arXiv Formulation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -845,8 +845,8 @@
         },
         {
           "node_type": "item",
-          "title": "2026.04",
-          "description": "GR-Evolve: Design-Adaptive Global Routing via LLM-Driven Algorithm Evolution arXiv Algorithm",
+          "title": "GR-Evolve",
+          "description": "GR-Evolve: Design-Adaptive Global Routing via LLM-Driven Algorithm Evolution  arXiv Algorithm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -860,8 +860,8 @@
         },
         {
           "node_type": "item",
-          "title": "2026.04",
-          "description": "AutoQResearch: LLM-Guided Closed-Loop Policy Search for Adaptive Variational Quantum Optimization arXiv Algorithm",
+          "title": "autoqresearch",
+          "description": "AutoQResearch: LLM-Guided Closed-Loop Policy Search for Adaptive Variational Quantum Optimization  arXiv Algorithm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -875,8 +875,8 @@
         },
         {
           "node_type": "item",
-          "title": "2026.05",
-          "description": "AHD Agent: Agentic Reinforcement Learning for Automatic Heuristic Design arXiv Algorithm",
+          "title": "AHD-Agent",
+          "description": "AHD Agent: Agentic Reinforcement Learning for Automatic Heuristic Design  arXiv Algorithm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -890,8 +890,8 @@
         },
         {
           "node_type": "item",
-          "title": "2026.05",
-          "description": "LEVI: Stronger Search Architectures Can Substitute for Larger LLMs in Evolutionary Search arxiv Algorithm",
+          "title": "levi",
+          "description": "LEVI: Stronger Search Architectures Can Substitute for Larger LLMs in Evolutionary Search  arxiv Algorithm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -905,8 +905,8 @@
         },
         {
           "node_type": "item",
-          "title": "2026.05",
-          "description": "LLM4Branch: Large Language Model for Discovering Efficient Branching Policies of Integer Programs ICML 2026 Algorithm",
+          "title": "LLM4Branch",
+          "description": "LLM4Branch: Large Language Model for Discovering Efficient Branching Policies of Integer Programs  ICML 2026 Algorithm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -920,8 +920,8 @@
         },
         {
           "node_type": "item",
-          "title": "2026.05",
-          "description": "Beyond Inference-Time Search: Reinforcement Learning Synthesizes Reusable Solvers arxiv Analysis",
+          "title": "neural-solver-synthesis",
+          "description": "Beyond Inference-Time Search: Reinforcement Learning Synthesizes Reusable Solvers  arxiv Analysis",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -935,8 +935,8 @@
         },
         {
           "node_type": "item",
-          "title": "2026.05",
-          "description": "What Do Evolutionary Coding Agents Evolve? arxiv Analysis",
+          "title": "EvoReplay",
+          "description": "What Do Evolutionary Coding Agents Evolve?  arxiv Analysis",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -950,8 +950,8 @@
         },
         {
           "node_type": "item",
-          "title": "2026.05",
-          "description": "FrontierOR: Benchmarking LLMs' Capacity for Efficient Algorithm Design in Large-Scale Optimization arxiv Benchmark",
+          "title": "FrontierOR",
+          "description": "FrontierOR: Benchmarking LLMs' Capacity for Efficient Algorithm Design in Large-Scale Optimization  arxiv Benchmark",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -965,8 +965,8 @@
         },
         {
           "node_type": "item",
-          "title": "2026.05",
-          "description": "DynaSchedBench: Calibrated Dynamic Scheduling Benchmarks and Observability Paradox in LLM-based Scheduling Agents ICML 2026 Benchmark",
+          "title": "DynaSchedBench",
+          "description": "DynaSchedBench: Calibrated Dynamic Scheduling Benchmarks and Observability Paradox in LLM-based Scheduling Agents  ICML 2026 Benchmark",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -986,8 +986,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2022.08",
-          "description": "One Model, Any CSP: Graph Neural Networks as Fast Global Search Heuristics for Constraint Satisfaction IJCAI 2023",
+          "title": "ANYCSP",
+          "description": "One Model, Any CSP: Graph Neural Networks as Fast Global Search Heuristics for Constraint Satisfaction  IJCAI 2023",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1001,8 +1001,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024.02",
-          "description": "Multi-Task Learning for Routing Problem with Cross-Problem Zero-Shot Generalization KDD 2024",
+          "title": "MTNCO",
+          "description": "Multi-Task Learning for Routing Problem with Cross-Problem Zero-Shot Generalization  KDD 2024",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1016,8 +1016,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024.03",
-          "description": "Towards a Generic Representation of Combinatorial Problems for Learning-Based Approaches CPAIOR 2024",
+          "title": "learning-generic-csp",
+          "description": "Towards a Generic Representation of Combinatorial Problems for Learning-Based Approaches  CPAIOR 2024",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1031,8 +1031,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024.04",
-          "description": "Cross-Problem Learning for Solving Vehicle Routing Problems IJCAI 2024",
+          "title": "Cross_problem_learning",
+          "description": "Cross-Problem Learning for Solving Vehicle Routing Problems  IJCAI 2024",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1046,8 +1046,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024.05",
-          "description": "MVMoE: Multi-Task Vehicle Routing Solver with Mixture-of-Experts ICML 2024",
+          "title": "Routing-MVMoE",
+          "description": "MVMoE: Multi-Task Vehicle Routing Solver with Mixture-of-Experts  ICML 2024",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1061,8 +1061,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024.06",
-          "description": "RouteFinder: Towards Foundation Models for Vehicle Routing Problems TMLR",
+          "title": "routefinder",
+          "description": "RouteFinder: Towards Foundation Models for Vehicle Routing Problems  TMLR",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1076,8 +1076,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024.06",
-          "description": "GOAL: A Generalist Combinatorial Optimization Agent Learner ICLR 2025",
+          "title": "goal-co",
+          "description": "GOAL: A Generalist Combinatorial Optimization Agent Learner  ICLR 2025",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1091,8 +1091,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024.09",
-          "description": "MAPF-GPT: Imitation Learning for Multi-Agent Pathfinding at Scale AAAI 2025",
+          "title": "MAPF-GPT-DDG",
+          "description": "MAPF-GPT: Imitation Learning for Multi-Agent Pathfinding at Scale  AAAI 2025",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1106,8 +1106,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024.12",
-          "description": "Multi-task Representation Learning for Mixed Integer Linear Programming CPAIOR 2025",
+          "title": "MILP_multitask",
+          "description": "Multi-task Representation Learning for Mixed Integer Linear Programming  CPAIOR 2025",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1121,8 +1121,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025.05",
-          "description": "A Mixed-Curvature based Pre-training Paradigm for Multi-Task Vehicle Routing Solver ICML 2025",
+          "title": "Mixed_Curvature_VRPs",
+          "description": "A Mixed-Curvature based Pre-training Paradigm for Multi-Task Vehicle Routing Solver  ICML 2025",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1139,7 +1139,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T22:48:47.485Z",
+    "last_updated": "2026-08-25T06:14:22.618Z",
     "original_repository": "ai4co/awesome-fm4co",
     "original_repository_id": 768441087,
     "original_repository_sha": "c738ca2ec0ce6eb6dd7c052b374e2ee679ec2d95",
