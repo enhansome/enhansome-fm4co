@@ -15,7 +15,7 @@
             "last_commit": "2026-07-02T11:44:59Z",
             "owner": "microsoft",
             "repo": "OptiGuide",
-            "stars": 708
+            "stars": 709
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2024-12-04T21:04:50Z",
             "owner": "google-deepmind",
             "repo": "opro",
-            "stars": 772
+            "stars": 773
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-01-24T05:13:34Z",
             "owner": "ai4co",
             "repo": "reevo",
-            "stars": 293
+            "stars": 294
           }
         },
         {
@@ -522,10 +522,10 @@
             "archived": false,
             "id": 984420869,
             "language": "Python",
-            "last_commit": "2026-08-18T21:48:06Z",
+            "last_commit": "2026-08-26T20:37:16Z",
             "owner": "SakanaAI",
             "repo": "ALE-Bench",
-            "stars": 213
+            "stars": 214
           }
         },
         {
@@ -555,7 +555,7 @@
             "last_commit": "2026-07-18T13:16:12Z",
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7268
+            "stars": 7273
           }
         },
         {
@@ -660,7 +660,7 @@
             "last_commit": "2026-08-21T13:07:37Z",
             "owner": "SakanaAI",
             "repo": "ShinkaEvolve",
-            "stars": 1354
+            "stars": 1355
           }
         },
         {
@@ -780,7 +780,7 @@
             "last_commit": "2026-08-25T20:18:41Z",
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 618
+            "stars": 620
           }
         },
         {
@@ -795,7 +795,7 @@
             "last_commit": "2026-08-25T20:18:41Z",
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 618
+            "stars": 620
           }
         },
         {
@@ -977,6 +977,21 @@
             "repo": "DynaSchedBench",
             "stars": 5
           }
+        },
+        {
+          "node_type": "item",
+          "title": "formuevo",
+          "description": "FormuEvo: LLM-Guided Evolution for Discovering Solver-Efficient Mixed-Integer Programming Formulations  EMNLP 2026 Algorithm",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1248849991,
+            "language": "Python",
+            "last_commit": "2026-08-27T02:00:23Z",
+            "owner": "Xyz-yuanhf",
+            "repo": "formuevo",
+            "stars": 0
+          }
         }
       ],
       "title": "LLMs for Combinatorial Optimization"
@@ -1139,10 +1154,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T22:50:19.604Z",
+    "last_updated": "2026-08-27T03:23:31.390Z",
     "original_repository": "ai4co/awesome-fm4co",
     "original_repository_id": 768441087,
-    "original_repository_sha": "c738ca2ec0ce6eb6dd7c052b374e2ee679ec2d95",
+    "original_repository_sha": "2f952d0a1c073ce14d67a059788778625e256ee3",
     "enhanced_repository": "enhansome/enhansome-fm4co",
     "enhanced_repository_description": null,
     "title": "Awesome fm4co with stars"
