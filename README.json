@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GenAI for Optimization and Decision Intelligence",
+            "homepage": null,
             "id": 673095495,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-02T11:44:59Z",
+            "open_issues": 12,
             "owner": "microsoft",
             "repo": "OptiGuide",
-            "stars": 709
+            "stars": 709,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository of \"Can Language Models Solve Graph Problems in Natural Language?\". NeurIPS 2023 (Spotlight)",
+            "homepage": null,
             "id": 641814438,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-20T13:39:16Z",
+            "open_issues": 0,
             "owner": "Arthur-Heng",
             "repo": "NLGraph",
-            "stars": 148
+            "stars": 148,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "official code for \"Large Language Models as Optimizers\"",
+            "homepage": "https://arxiv.org/abs/2309.03409",
             "id": 699169039,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-12-04T21:04:50Z",
+            "open_issues": 6,
             "owner": "google-deepmind",
             "repo": "opro",
-            "stars": 774
+            "stars": 774,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -58,12 +73,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation of the paper \"Chain-of-Experts: When LLMs Meet Complex Operation Research Problems\"",
+            "homepage": null,
             "id": 771360452,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-02-06T07:36:20Z",
+            "open_issues": 2,
             "owner": "xzymustbexzy",
             "repo": "Chain-of-Experts",
-            "stars": 121
+            "stars": 121,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -74,12 +94,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Optimization Modeling Using mip Solvers and large language models",
+            "homepage": null,
             "id": 701024182,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-11-04T17:10:14Z",
+            "open_issues": 2,
             "owner": "teshnizi",
             "repo": "OptiMUS",
-            "stars": 289
+            "stars": 289,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -90,12 +115,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 690937776,
             "language": null,
+            "license": null,
             "last_commit": "2023-09-13T07:27:05Z",
+            "open_issues": 0,
             "owner": "pivithuruthejanamarasinghe",
             "repo": "AI-Copilot-Data",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -106,12 +136,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Large language model as optimizer ",
+            "homepage": null,
             "id": 792157217,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-04-26T08:13:29Z",
+            "open_issues": 1,
             "owner": "cschen1205",
             "repo": "LMEA",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -122,12 +157,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 722545811,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-02-05T10:32:18Z",
+            "open_issues": 8,
             "owner": "google-deepmind",
             "repo": "funsearch",
-            "stars": 1110
+            "stars": 1111,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -138,12 +178,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository for NPHardEval, a quantified-dynamic benchmark of LLMs",
+            "homepage": null,
             "id": 710085475,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-26T20:37:39Z",
+            "open_issues": 2,
             "owner": "casmlab",
             "repo": "NPHardEval",
-            "stars": 66
+            "stars": 66,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -154,12 +199,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2024] ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution",
+            "homepage": "https://ai4co.github.io/reevo/",
             "id": 721150708,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-24T05:13:34Z",
+            "open_issues": 0,
             "owner": "ai4co",
             "repo": "reevo",
-            "stars": 294
+            "stars": 294,
+            "topics": [
+              "ant-colony-optimization",
+              "automatic-algorithm-generation",
+              "bin-packing-problem",
+              "electronic-design-automation",
+              "evolutionary-algorithms",
+              "genetic-algorithm",
+              "hyper-heuristics",
+              "large-language-models",
+              "llm-agent",
+              "multiple-knapsack-problem",
+              "neural-combinatorial-optimization",
+              "orienteering-problem",
+              "reinforcement-learning",
+              "traveling-salesman-problem",
+              "vehicle-routing-problem"
+            ]
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -170,12 +236,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official implementation of \"RouteExplainer: An Explanation Framework for Vehicle Routing Problem\" (PAKDD 2024, oral)",
+            "homepage": "https://ntt-dkiku.github.io/xai-vrp/",
             "id": 757955668,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-04-05T12:04:35Z",
+            "open_issues": 0,
             "owner": "ntt-dkiku",
             "repo": "route-explainer",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "combinatorial-optimization",
+              "conterfactual",
+              "contrastive-explanations",
+              "explainability",
+              "large-language-model",
+              "large-language-models",
+              "llm-applications",
+              "llm-apps",
+              "vehicle-routing-problem"
+            ]
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -186,12 +267,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://sites.google.com/view/words-to-routes/",
             "id": 753894746,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-08T16:48:20Z",
+            "open_issues": 1,
             "owner": "Zhehui-Huang",
             "repo": "LLM_Routing",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -202,12 +288,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Evolution of Heuristics",
+            "homepage": null,
             "id": 778608193,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-06T16:59:14Z",
+            "open_issues": 6,
             "owner": "FeiLiu36",
             "repo": "EoH",
-            "stars": 355
+            "stars": 357,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -218,12 +309,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ORLM: Training Large Language Models for Optimization Modeling",
+            "homepage": "https://arxiv.org/abs/2405.17743",
             "id": 807697098,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-18T07:45:28Z",
+            "open_issues": 0,
             "owner": "Cardinal-Operations",
             "repo": "ORLM",
-            "stars": 275
+            "stars": 275,
+            "topics": [
+              "large-language-models",
+              "operations-research",
+              "optimization-modeling"
+            ]
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -234,12 +334,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 804299799,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-10-03T15:22:19Z",
+            "open_issues": 0,
             "owner": "Zangir",
             "repo": "LLM-for-CP",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -250,12 +355,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Research on solving TSP and mTSP problems using Visual Reasoning and Multi-Agent Approach in Multimodal Large Language Models ",
+            "homepage": null,
             "id": 820252861,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-07-08T05:59:03Z",
+            "open_issues": 0,
             "owner": "ahmed-abdulhuy",
             "repo": "Solving-TSP-and-mTSP-Combinatorial-Challenges-using-Visual-Reasoning-and-Multi-Agent-Approach-MLLMs-",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -266,12 +376,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dataset2024",
+            "homepage": null,
             "id": 810744168,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-06-12T15:35:42Z",
+            "open_issues": 0,
             "owner": "starjob42",
             "repo": "datasetjsp",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -282,12 +397,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1125150200,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-01-21T08:02:39Z",
+            "open_issues": 0,
             "owner": "huangjin-collab",
             "repo": "LHH_DFJSP_SeEvo",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -298,12 +418,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[AAAI-25] HSEvo: Elevating Automatic Heuristic Design with Diversity-Driven Harmony Search and Genetic Algorithm Using LLMs",
+            "homepage": "https://datphamvn.github.io/HSEvo/",
             "id": 904814763,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-06T04:47:39Z",
+            "open_issues": 0,
             "owner": "datphamvn",
             "repo": "HSEvo",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "automatic-algorithm-generation",
+              "bin-packing-problem",
+              "diversity-measures",
+              "evolutionary-algorithms",
+              "genetic-algorithms",
+              "harmony-search",
+              "hyper-heuristics",
+              "large-language-models",
+              "orienteering-problem",
+              "traveling-salesman-problem"
+            ]
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -314,12 +450,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[AAAI 2025] ORQA is a new QA benchmark designed to assess the reasoning capabilities of LLMs in a specialized technical domain of Operations Research. The benchmark evaluates whether LLMs can emulate the knowledge and reasoning skills of OR experts when presented with complex optimization modeling tasks.",
+            "homepage": null,
             "id": 906451448,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-06-07T19:31:43Z",
+            "open_issues": 0,
             "owner": "nl4opt",
             "repo": "ORQA",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "aaai2025",
+              "ai4or",
+              "linear-programming",
+              "llm",
+              "llm-benchmarking",
+              "llm-reasoning",
+              "llm4math",
+              "llm4opt",
+              "llm4or",
+              "mathematical-modelling",
+              "mixed-integer-programming",
+              "multi-choice",
+              "operations-research",
+              "optimization"
+            ]
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -330,12 +486,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Code Implementation for \"QUBE: Enhancing Automatic Heuristic Design via Quality-Uncertainty Balanced Evolution\"",
+            "homepage": null,
             "id": 934528804,
             "language": null,
+            "license": null,
             "last_commit": "2025-02-18T01:53:03Z",
+            "open_issues": 1,
             "owner": "zzjchen",
             "repo": "QUBE_code",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -346,12 +507,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for [ICML2025]``Monte Carlo Tree Search for Comprehensive Exploration in LLM-Based Automatic Heuristic Design``.",
+            "homepage": null,
             "id": 896369396,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-05-23T05:54:29Z",
+            "open_issues": 0,
             "owner": "zz1358m",
             "repo": "MCTS-AHD-master",
-            "stars": 85
+            "stars": 85,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -362,12 +528,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 926805840,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-07T17:27:38Z",
+            "open_issues": 0,
             "owner": "HumainLab",
             "repo": "EquivaMap",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -378,12 +549,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ARS: Automatic Routing Solver with Large Language Models",
+            "homepage": null,
             "id": 936474907,
             "language": null,
+            "license": null,
             "last_commit": "2025-12-11T15:44:28Z",
+            "open_issues": 0,
             "owner": "Ahalikai",
             "repo": "ARS-Routbench",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -394,12 +570,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "\"GraphArena: Evaluating and Exploring Large Language Models on Graph Computation\" in ICLR 2025",
+            "homepage": "https://openreview.net/forum?id=Y1r9yCMzeA",
             "id": 811098845,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2025-03-02T12:45:44Z",
+            "open_issues": 1,
             "owner": "squareRoot3",
             "repo": "GraphArena",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -410,12 +591,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Heuristic development through Contextual Evolution of Heuristics (CEoH) with LLMs.",
+            "homepage": "https://nico-koltermann.github.io/contextual-evolution-of-heuristics/",
             "id": 928923778,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-05-05T15:25:30Z",
+            "open_issues": 0,
             "owner": "nico-koltermann",
             "repo": "contextual-evolution-of-heuristics",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "combinatorial-optimization",
+              "llm"
+            ]
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -426,12 +615,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OR-LLM-Agent: Automating Modeling and Solving of Operations Research Optimization Problems with Reasoning LLM",
+            "homepage": "https://arxiv.org/abs/2503.10009",
             "id": 944956186,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-06-23T03:00:23Z",
+            "open_issues": 2,
             "owner": "bwz96sco",
             "repo": "or_llm_agent",
-            "stars": 98
+            "stars": 100,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -442,12 +636,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Combinatorial Optimization for All: Using LLMs to Aid Non-Experts in Improving Optimization Algorithms",
+            "homepage": "https://camilochs.github.io/comb-opt-for-all/",
             "id": 948138891,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-13T14:14:04Z",
+            "open_issues": 0,
             "owner": "camilochs",
             "repo": "comb-opt-for-all",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -458,12 +657,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR 2025 - Workshop AgenticAI Oral] Large Language Models powered Neural Solvers for Generalized Vehicle Routing Problems",
+            "homepage": null,
             "id": 952304343,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-05-29T06:38:58Z",
+            "open_issues": 0,
             "owner": "Fsoft-AIC",
             "repo": "NCO-LLM",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -474,12 +678,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 863915316,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-05-20T05:59:36Z",
+            "open_issues": 1,
             "owner": "wuuu110",
             "repo": "Hercules",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -490,12 +699,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 992336260,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-12T23:38:16Z",
+            "open_issues": 2,
             "owner": "thuiar",
             "repo": "LLM-LNS",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -506,12 +720,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RLVR for LLMs in optimization modeling",
+            "homepage": null,
             "id": 983781257,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-15T10:26:58Z",
+            "open_issues": 1,
             "owner": "Cardinal-Operations",
             "repo": "SIRL",
-            "stars": 67
+            "stars": 67,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -522,12 +741,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation of \"ORMind: A Cognitive-Inspired End-to-End Reasoning Framework for Operations Research\" (ACL 2025 Industry Track).",
+            "homepage": "https://aclanthology.org/2025.acl-industry.10/",
             "id": 1007736143,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-04T08:06:44Z",
+            "open_issues": 0,
             "owner": "XiaoAI1989",
             "repo": "ORMind",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "acl-2025",
+              "operations-research",
+              "reasoning"
+            ]
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -538,12 +766,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agentic Benchmark for LLM-Crafted Heuristics in Combinatorial Optimization (ICLR'26)",
+            "homepage": "https://arxiv.org/abs/2506.07972",
             "id": 958999399,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-25T20:15:22Z",
+            "open_issues": 2,
             "owner": "cornell-zhang",
             "repo": "heurigym",
-            "stars": 93
+            "stars": 93,
+            "topics": [
+              "agent",
+              "benchmark",
+              "chatgpt",
+              "large-language-models",
+              "optimization"
+            ]
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -554,12 +793,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official repository of ALE-Bench",
+            "homepage": null,
             "id": 984420869,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T20:37:16Z",
+            "open_issues": 3,
             "owner": "SakanaAI",
             "repo": "ALE-Bench",
-            "stars": 214
+            "stars": 214,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -570,12 +814,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ACL 2026] OPT-BENCH: Evaluating the Iterative Self-Optimization of LLM Agents in Large-Scale Search Spaces",
+            "homepage": null,
             "id": 1000264491,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-05-12T09:08:15Z",
+            "open_issues": 0,
             "owner": "OliverLeeXZ",
             "repo": "OPT-BENCH",
-            "stars": 126
+            "stars": 126,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -586,12 +835,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source implementation of AlphaEvolve",
+            "homepage": null,
             "id": 984096689,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-18T13:16:12Z",
+            "open_issues": 117,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7278
+            "stars": 7281,
+            "topics": [
+              "alpha-evolve",
+              "alphacode",
+              "alphaevolve",
+              "coding-agent",
+              "deepmind",
+              "deepmind-lab",
+              "discovery",
+              "distributed-evolutionary-algorithms",
+              "evolutionary-algorithms",
+              "evolutionary-computation",
+              "genetic-algorithm",
+              "genetic-algorithms",
+              "iterative-methods",
+              "iterative-refinement",
+              "llm-engineering",
+              "llm-ensemble",
+              "llm-inference",
+              "openevolve",
+              "optimize"
+            ]
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -602,12 +876,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 884705995,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-24T12:13:52Z",
+            "open_issues": 1,
             "owner": "microsoft",
             "repo": "HeurAgenix",
-            "stars": 91
+            "stars": 91,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -618,12 +897,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[2026 ESWA]MeLA: a Metacognitive LLM-Driven Architecture that presents a new paradigm for Automatic Heuristic Design (AHD)",
+            "homepage": null,
             "id": 1026593961,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-08-10T02:22:42Z",
+            "open_issues": 0,
             "owner": "Qzs1335",
             "repo": "MeLA",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -634,12 +918,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[AAAI-26] MPaGE: Pareto-Grid-Guided Large Language Models for Fast and High-Quality Heuristics Design in Multi-Objective Combinatorial Optimization",
+            "homepage": null,
             "id": 1020192232,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-10T04:55:16Z",
+            "open_issues": 0,
             "owner": "langkhachhoha",
             "repo": "MPaGE",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "automatic-algorithm-design",
+              "capacitated-vehicle-routing-problem",
+              "evolutionary-algorithms",
+              "hyper-heuristics",
+              "knapsack-problem",
+              "large-language-models",
+              "multi-criteria-heuristics",
+              "multi-objective-optimization",
+              "pareto-front",
+              "semo",
+              "travelling-salesman-problem"
+            ]
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -650,12 +951,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EvoCut: Automatic generation of acceleration cuts for integer programs via evolutionary search and LLMs.",
+            "homepage": null,
             "id": 982353112,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-18T23:19:22Z",
+            "open_issues": 0,
             "owner": "milad1378yz",
             "repo": "EvoCut",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "cutting-planes",
+              "evolutionary-algorithm",
+              "integer-programming",
+              "llm",
+              "milp",
+              "mixed-integer-programming",
+              "operations-research",
+              "optimization"
+            ]
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -666,12 +981,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[AAAI 2026 Oral] MOTIF: Multi-strategy Optimization via Turn-based Interactive Framework",
+            "homepage": null,
             "id": 882347520,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-08T09:49:35Z",
+            "open_issues": 0,
             "owner": "HaiAu2501",
             "repo": "MOTIF",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -682,12 +1002,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "code for paper \"Large Language Models as End-to-end Combinatorial Optimization Solvers\"",
+            "homepage": null,
             "id": 1060060559,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-24T07:36:27Z",
+            "open_issues": 2,
             "owner": "Summer142857",
             "repo": "LLMCoSolver",
-            "stars": 90
+            "stars": 90,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -698,12 +1023,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ShinkaEvolve: Towards Open-Ended and Sample-Efficient Program Evolution 🧬",
+            "homepage": "https://sakanaai.github.io/ShinkaEvolve/",
             "id": 1058901043,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T13:07:37Z",
+            "open_issues": 0,
             "owner": "SakanaAI",
             "repo": "ShinkaEvolve",
-            "stars": 1355
+            "stars": 1357,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -714,12 +1044,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "State-of-the-art LLM-designed heuristics for Vehicle Routing Problems",
+            "homepage": "https://arxiv.org/abs/2510.07073",
             "id": 1072157407,
             "language": "C++",
+            "license": null,
             "last_commit": "2025-10-09T08:30:12Z",
+            "open_issues": 0,
             "owner": "ai4co",
             "repo": "vrpagent",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -730,12 +1065,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CodeEvolve is an open-source evolutionary coding agent for algorithm discovery and optimization.",
+            "homepage": "https://arxiv.org/abs/2510.14150",
             "id": 1076305519,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-08T14:38:23Z",
+            "open_issues": 1,
             "owner": "inter-co",
             "repo": "science-codeevolve",
-            "stars": 144
+            "stars": 144,
+            "topics": [
+              "alpha-evolve",
+              "alphaevolve",
+              "codeevolve",
+              "coding-agent",
+              "coding-agents",
+              "evolutionary-algorithms",
+              "genetic-algorithm",
+              "genetic-algorithms",
+              "llm",
+              "llm-ensemble"
+            ]
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -746,12 +1097,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1080195938,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-21T02:32:40Z",
+            "open_issues": 0,
             "owner": "MIRALab-USTC",
             "repo": "OptiTree",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -762,12 +1118,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "All codes, data, logs, checkpoints files of EvoReal.",
+            "homepage": null,
             "id": 1093460401,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-05T13:29:59Z",
+            "open_issues": 0,
             "owner": "HenryZhu1029",
             "repo": "EvoReal",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -778,12 +1139,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1095936597,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-01T15:15:53Z",
+            "open_issues": 0,
             "owner": "tb-git-kit-research",
             "repo": "a-ceoh-evolution-of-heuristics",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -794,12 +1160,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation of \"G-LNS: Generative Large Neighborhood Search for LLM-Based Automatic Heuristic Design\"(arXiv:2602.08253).",
+            "homepage": "https://zboyn.github.io/G-LNS/",
             "id": 1148041769,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-10T09:18:27Z",
+            "open_issues": 1,
             "owner": "ZBoyn",
             "repo": "G-LNS",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -810,12 +1181,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Research Agent for Operations Research Problems",
+            "homepage": null,
             "id": 1157564105,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-09T08:02:02Z",
+            "open_issues": 0,
             "owner": "qiliuchn",
             "repo": "OR-Agent",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "agentic-ai",
+              "ai-for-science",
+              "ai-scientist",
+              "operations-research"
+            ]
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -826,12 +1207,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI-Driven Scientific, Algorithmic, and Systems Discovery",
+            "homepage": "https://skydiscover-ai.github.io/",
             "id": 1160689201,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T18:14:14Z",
+            "open_issues": 26,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 623
+            "stars": 623,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -842,12 +1228,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI-Driven Scientific, Algorithmic, and Systems Discovery",
+            "homepage": "https://skydiscover-ai.github.io/",
             "id": 1160689201,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T18:14:14Z",
+            "open_issues": 26,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 623
+            "stars": 623,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -858,12 +1249,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the official repository of the paper entitled: \"From Heuristic Selection to Automated Algorithm Design: LLMs Benefit from Strong Priors\"",
+            "homepage": null,
             "id": 1160819954,
             "language": null,
+            "license": null,
             "last_commit": "2026-02-18T12:10:41Z",
+            "open_issues": 0,
             "owner": "BaronH07",
             "repo": "BAG",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -874,12 +1270,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1159622259,
             "language": null,
+            "license": null,
             "last_commit": "2026-02-17T00:20:19Z",
+            "open_issues": 1,
             "owner": "ra-MANUJ-an",
             "repo": "pyvrp-code",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -890,12 +1291,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "We propose EvoOR-Agent, a co-evolutionary framework for automated optimization. The framework represents agent workflows as activity-on-edge (AOE)-style networks, making workflow topology, execution dependencies, and alternative reasoning paths explicit. ",
+            "homepage": null,
             "id": 1215061538,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-24T01:42:00Z",
+            "open_issues": 0,
             "owner": "EvoNexusX",
             "repo": "2026HuangEvoORAgent",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -906,12 +1312,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1201707440,
             "language": "Raku",
+            "license": null,
             "last_commit": "2026-06-18T15:50:56Z",
+            "open_issues": 0,
             "owner": "ASU-VDA-Lab",
             "repo": "GR-Evolve",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -922,12 +1333,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1193479690,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-09T03:40:40Z",
+            "open_issues": 0,
             "owner": "SMU-Quantum",
             "repo": "autoqresearch",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -938,12 +1354,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool-integrated, multi-turn LLM agent trained with reinforcement learning for automatic heuristic design",
+            "homepage": null,
             "id": 1233575580,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-05-13T06:42:58Z",
+            "open_issues": 0,
             "owner": "Antoniano1963",
             "repo": "AHD-Agent",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -954,12 +1375,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A low-cost and high-performance evolutionary engine for code and prompt optimization",
+            "homepage": "https://ttanv.github.io/levi",
             "id": 1179215765,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-22T02:33:57Z",
+            "open_issues": 1,
             "owner": "ttanv",
             "repo": "levi",
-            "stars": 42
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -970,12 +1396,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICML2026] LLM4Branch: Large Language Model for Discovering Efficient Branching Policies of Integer Programs",
+            "homepage": null,
             "id": 1235286443,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-12T04:30:24Z",
+            "open_issues": 0,
             "owner": "hzn18",
             "repo": "LLM4Branch",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -986,12 +1417,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code and artifacts for the paper \"Beyond Inference-Time Search: Reinforcement Learning Synthesizes Reusable Solvers\"",
+            "homepage": null,
             "id": 1228167203,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-05-04T13:37:30Z",
+            "open_issues": 0,
             "owner": "IDEALLab",
             "repo": "neural-solver-synthesis",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -1002,12 +1438,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EvoReplay: analysis suite for \"What Do Evolutionary Coding Agents Evolve?\"",
+            "homepage": "https://arxiv.org/abs/2605.20086",
             "id": 1242664459,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-20T06:19:18Z",
+            "open_issues": 0,
             "owner": "ZIB-IOL",
             "repo": "EvoReplay",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "agents",
+              "evolutionary-algorithms",
+              "llms"
+            ]
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -1018,12 +1463,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A benchmark of 180 literature-grounded OR problems evaluating LLM-generated efficient algorithms",
+            "homepage": null,
             "id": 1252427337,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-22T13:14:51Z",
+            "open_issues": 3,
             "owner": "Minw913",
             "repo": "FrontierOR",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -1034,12 +1484,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DynaSchedBench: Calibrated Dynamic Scheduling Benchmarks and Observability Paradox in LLM-based Scheduling Agents (ICML 2026)",
+            "homepage": "https://dsbx7.github.io/",
             "id": 1245283241,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-21T04:48:30Z",
+            "open_issues": 0,
             "owner": "dsbx7",
             "repo": "DynaSchedBench",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -1050,12 +1505,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1248849991,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-27T02:00:23Z",
+            "open_issues": 0,
             "owner": "Xyz-yuanhf",
             "repo": "formuevo",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         }
@@ -1072,12 +1532,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 525076166,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-12-07T16:47:37Z",
+            "open_issues": 2,
             "owner": "toenshoff",
             "repo": "ANYCSP",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -1088,12 +1553,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "multi-task learning for routing problem",
+            "homepage": null,
             "id": 724510946,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-02T13:17:08Z",
+            "open_issues": 3,
             "owner": "FeiLiu36",
             "repo": "MTNCO",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -1104,12 +1574,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Representing CP problems as graphs",
+            "homepage": null,
             "id": 595310055,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-12-18T20:27:21Z",
+            "open_issues": 3,
             "owner": "corail-research",
             "repo": "learning-generic-csp",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -1120,12 +1595,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "implementation of our IJCAI'24 paper \"Cross-Problem Learning for Solving Vehicle Routing Problems\".",
+            "homepage": null,
             "id": 797016107,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-17T03:49:14Z",
+            "open_issues": 0,
             "owner": "Zhuoyi-Lin",
             "repo": "Cross_problem_learning",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -1136,12 +1616,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICML 2024] \"MVMoE: Multi-Task Vehicle Routing Solver with Mixture-of-Experts\"",
+            "homepage": "https://openreview.net/forum?id=lsQnneYa8p",
             "id": 662442844,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-03T02:37:25Z",
+            "open_issues": 1,
             "owner": "RoyalSkye",
             "repo": "Routing-MVMoE",
-            "stars": 82
+            "stars": 82,
+            "topics": [
+              "combinatorial-optimization",
+              "foundation-models",
+              "generalization",
+              "learning-to-optimize",
+              "mixture-of-experts",
+              "neural-combinatorial-optimization",
+              "vehicle-routing-problem",
+              "zero-shot-learning"
+            ]
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -1152,12 +1646,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[TMLR 2025 → ICML 2026] RouteFinder: Towards Foundation Models for Vehicle Routing Problems",
+            "homepage": "https://arxiv.org/abs/2406.15007",
             "id": 818346721,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-03T17:25:52Z",
+            "open_issues": 4,
             "owner": "ai4co",
             "repo": "routefinder",
-            "stars": 123
+            "stars": 123,
+            "topics": [
+              "ai4co",
+              "foundation-models",
+              "neural-combinatorial-optimization",
+              "rl4co",
+              "transformers",
+              "vehicle-routing-problem"
+            ]
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -1168,12 +1674,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 877895358,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-05-14T11:02:34Z",
+            "open_issues": 2,
             "owner": "naver",
             "repo": "goal-co",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -1184,12 +1695,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[IROS-2025] MAPF-GPT-DDG is a scalable decentralized multi-agent pathfinding (MAPF) solver based on imitation learning. It builds upon MAPF-GPT by introducing a novel fine-tuning method called Delta Data Generation (DDG) — a reward-free active learning approach that identifies and corrects failure cases in the policy.",
+            "homepage": "https://sites.google.com/view/mapf-gpt-ddg",
             "id": 848757118,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-21T20:52:47Z",
+            "open_issues": 0,
             "owner": "Cognitive-AI-Systems",
             "repo": "MAPF-GPT-DDG",
-            "stars": 68
+            "stars": 68,
+            "topics": [
+              "mapf",
+              "pogema",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -1200,12 +1720,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CPAIOR 2025 submission: Multi-task Representation Learning for Mixed Integer Linear Programming",
+            "homepage": null,
             "id": 899682565,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-12-15T19:30:16Z",
+            "open_issues": 0,
             "owner": "caidog1129",
             "repo": "MILP_multitask",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         },
@@ -1216,12 +1741,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 992441203,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-08-15T08:46:46Z",
+            "open_issues": 0,
             "owner": "lsyysl9711",
             "repo": "Mixed_Curvature_VRPs",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
         }
@@ -1230,15 +1760,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:11:23.628Z",
+    "last_updated": "2026-08-29T03:45:25.547Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
+      "homepage": null,
       "id": 768441087,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-08-26T11:11:55Z",
+      "open_issues": 2,
       "owner": "ai4co",
       "repo": "awesome-fm4co",
-      "stars": 581
+      "stars": 581,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "combinatorial-optimization",
+        "foundation-models",
+        "lists",
+        "machine-learning",
+        "neural-combinatorial-optimization"
+      ]
     },
     "original_repository_sha": "2f952d0a1c073ce14d67a059788778625e256ee3",
     "enhanced_repository": "enhansome/enhansome-fm4co",
