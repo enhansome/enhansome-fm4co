@@ -844,7 +844,7 @@
             "open_issues": 117,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7281,
+            "stars": 7285,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -1032,7 +1032,7 @@
             "open_issues": 0,
             "owner": "SakanaAI",
             "repo": "ShinkaEvolve",
-            "stars": 1357,
+            "stars": 1360,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1216,7 +1216,7 @@
             "open_issues": 26,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 623,
+            "stars": 626,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1237,7 +1237,7 @@
             "open_issues": 26,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 623,
+            "stars": 626,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1760,7 +1760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:41:07.284Z",
+    "last_updated": "2026-08-30T00:27:06.468Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
