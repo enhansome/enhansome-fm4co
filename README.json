@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "microsoft",
             "repo": "OptiGuide",
-            "stars": 709,
+            "stars": 710,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -844,7 +844,7 @@
             "open_issues": 117,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7285,
+            "stars": 7290,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -1029,10 +1029,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-21T13:07:37Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "SakanaAI",
             "repo": "ShinkaEvolve",
-            "stars": 1360,
+            "stars": 1362,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1169,7 +1169,7 @@
             "open_issues": 1,
             "owner": "ZBoyn",
             "repo": "G-LNS",
-            "stars": 29,
+            "stars": 30,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1760,7 +1760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T00:27:06.468Z",
+    "last_updated": "2026-08-31T00:40:21.043Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
