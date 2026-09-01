@@ -166,7 +166,7 @@
             "open_issues": 8,
             "owner": "google-deepmind",
             "repo": "funsearch",
-            "stars": 1111,
+            "stars": 1112,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -236,7 +236,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "The official implementation of \"RouteExplainer: An Explanation Framework for Vehicle Routing Problem\" (PAKDD 2024, oral)",
+            "description": "[PAKDD 2024 Oral] Code for \"RouteExplainer: An Explanation Framework for Vehicle Routing Problem\"",
             "homepage": "https://ntt-dkiku.github.io/xai-vrp/",
             "id": 757955668,
             "language": "Python",
@@ -297,7 +297,7 @@
             "open_issues": 6,
             "owner": "FeiLiu36",
             "repo": "EoH",
-            "stars": 357,
+            "stars": 356,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -844,7 +844,7 @@
             "open_issues": 117,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7290,
+            "stars": 7292,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -1212,11 +1212,11 @@
             "id": 1160689201,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-27T18:14:14Z",
+            "last_commit": "2026-08-31T16:46:13Z",
             "open_issues": 26,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 626,
+            "stars": 627,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1233,11 +1233,11 @@
             "id": 1160689201,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-27T18:14:14Z",
+            "last_commit": "2026-08-31T16:46:13Z",
             "open_issues": 26,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 626,
+            "stars": 627,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1760,7 +1760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T00:40:21.043Z",
+    "last_updated": "2026-09-01T01:19:51.618Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
@@ -1772,7 +1772,7 @@
       "open_issues": 2,
       "owner": "ai4co",
       "repo": "awesome-fm4co",
-      "stars": 581,
+      "stars": 582,
       "topics": [
         "awesome",
         "awesome-list",
