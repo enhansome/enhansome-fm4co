@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "microsoft",
             "repo": "OptiGuide",
-            "stars": 710,
+            "stars": 711,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -844,7 +844,7 @@
             "open_issues": 117,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7299,
+            "stars": 7307,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -1032,7 +1032,7 @@
             "open_issues": 1,
             "owner": "SakanaAI",
             "repo": "ShinkaEvolve",
-            "stars": 1363,
+            "stars": 1366,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1166,7 +1166,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-02-10T09:18:27Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "ZBoyn",
             "repo": "G-LNS",
             "stars": 30,
@@ -1405,7 +1405,7 @@
             "open_issues": 0,
             "owner": "hzn18",
             "repo": "LLM4Branch",
-            "stars": 8,
+            "stars": 7,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1468,11 +1468,11 @@
             "id": 1252427337,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-08-22T13:14:51Z",
+            "last_commit": "2026-09-02T22:48:55Z",
             "open_issues": 3,
             "owner": "Minw913",
             "repo": "FrontierOR",
-            "stars": 33,
+            "stars": 34,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1559,7 +1559,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-12-02T13:17:08Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "FeiLiu36",
             "repo": "MTNCO",
             "stars": 24,
@@ -1760,7 +1760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T00:20:53.270Z",
+    "last_updated": "2026-09-03T00:22:22.983Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
@@ -1772,7 +1772,7 @@
       "open_issues": 2,
       "owner": "ai4co",
       "repo": "awesome-fm4co",
-      "stars": 583,
+      "stars": 584,
       "topics": [
         "awesome",
         "awesome-list",
