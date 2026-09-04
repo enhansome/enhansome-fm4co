@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "microsoft",
             "repo": "OptiGuide",
-            "stars": 711,
+            "stars": 712,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -103,7 +103,7 @@
             "open_issues": 2,
             "owner": "teshnizi",
             "repo": "OptiMUS",
-            "stars": 289,
+            "stars": 290,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -166,7 +166,7 @@
             "open_issues": 8,
             "owner": "google-deepmind",
             "repo": "funsearch",
-            "stars": 1113,
+            "stars": 1114,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -516,7 +516,7 @@
             "open_issues": 0,
             "owner": "zz1358m",
             "repo": "MCTS-AHD-master",
-            "stars": 85,
+            "stars": 86,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -775,7 +775,7 @@
             "open_issues": 2,
             "owner": "cornell-zhang",
             "repo": "heurigym",
-            "stars": 94,
+            "stars": 96,
             "topics": [
               "agent",
               "benchmark",
@@ -802,7 +802,7 @@
             "open_issues": 3,
             "owner": "SakanaAI",
             "repo": "ALE-Bench",
-            "stars": 215,
+            "stars": 217,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -844,7 +844,7 @@
             "open_issues": 117,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7307,
+            "stars": 7318,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -927,7 +927,7 @@
             "open_issues": 0,
             "owner": "langkhachhoha",
             "repo": "MPaGE",
-            "stars": 31,
+            "stars": 32,
             "topics": [
               "automatic-algorithm-design",
               "capacitated-vehicle-routing-problem",
@@ -1029,10 +1029,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-21T13:07:37Z",
-            "open_issues": 1,
+            "open_issues": 4,
             "owner": "SakanaAI",
             "repo": "ShinkaEvolve",
-            "stars": 1366,
+            "stars": 1367,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1216,7 +1216,7 @@
             "open_issues": 26,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 627,
+            "stars": 628,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1237,7 +1237,7 @@
             "open_issues": 26,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 627,
+            "stars": 628,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1447,7 +1447,7 @@
             "open_issues": 0,
             "owner": "ZIB-IOL",
             "repo": "EvoReplay",
-            "stars": 4,
+            "stars": 5,
             "topics": [
               "agents",
               "evolutionary-algorithms",
@@ -1760,7 +1760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T00:22:22.983Z",
+    "last_updated": "2026-09-04T00:10:54.637Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
