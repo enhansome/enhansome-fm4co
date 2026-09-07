@@ -61,7 +61,7 @@
             "open_issues": 6,
             "owner": "google-deepmind",
             "repo": "opro",
-            "stars": 773,
+            "stars": 774,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -844,7 +844,7 @@
             "open_issues": 118,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7329,
+            "stars": 7330,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -1422,7 +1422,7 @@
             "id": 1228167203,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-05-04T13:37:30Z",
+            "last_commit": "2026-09-06T19:26:06Z",
             "open_issues": 0,
             "owner": "IDEALLab",
             "repo": "neural-solver-synthesis",
@@ -1468,7 +1468,7 @@
             "id": 1252427337,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-02T22:48:55Z",
+            "last_commit": "2026-09-06T17:34:23Z",
             "open_issues": 3,
             "owner": "Minw913",
             "repo": "FrontierOR",
@@ -1808,7 +1808,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T00:01:11.904Z",
+    "last_updated": "2026-09-07T00:04:40.148Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
@@ -1820,7 +1820,7 @@
       "open_issues": 2,
       "owner": "ai4co",
       "repo": "awesome-fm4co",
-      "stars": 585,
+      "stars": 586,
       "topics": [
         "awesome",
         "awesome-list",
