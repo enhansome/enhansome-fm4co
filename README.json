@@ -208,7 +208,7 @@
             "open_issues": 0,
             "owner": "ai4co",
             "repo": "reevo",
-            "stars": 295,
+            "stars": 296,
             "topics": [
               "ant-colony-optimization",
               "automatic-algorithm-generation",
@@ -516,7 +516,7 @@
             "open_issues": 0,
             "owner": "zz1358m",
             "repo": "MCTS-AHD-master",
-            "stars": 86,
+            "stars": 87,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -844,7 +844,7 @@
             "open_issues": 118,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7331,
+            "stars": 7338,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -1032,7 +1032,7 @@
             "open_issues": 5,
             "owner": "SakanaAI",
             "repo": "ShinkaEvolve",
-            "stars": 1374,
+            "stars": 1375,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1469,7 +1469,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-09-06T17:34:23Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "Minw913",
             "repo": "FrontierOR",
             "stars": 34,
@@ -1531,11 +1531,11 @@
             "id": 1349952869,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T04:12:06Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-08T07:36:28Z",
+            "open_issues": 1,
             "owner": "xzx34",
             "repo": "AlgoWorlds",
-            "stars": 0,
+            "stars": 1,
             "topics": [
               "benchmark",
               "evaluation",
@@ -1808,7 +1808,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T00:31:17.437Z",
+    "last_updated": "2026-09-09T00:22:17.850Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
