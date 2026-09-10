@@ -729,7 +729,7 @@
             "open_issues": 1,
             "owner": "Cardinal-Operations",
             "repo": "SIRL",
-            "stars": 67,
+            "stars": 68,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -798,11 +798,11 @@
             "id": 984420869,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T10:18:54Z",
+            "last_commit": "2026-09-09T06:21:40Z",
             "open_issues": 3,
             "owner": "SakanaAI",
             "repo": "ALE-Bench",
-            "stars": 218,
+            "stars": 219,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -844,7 +844,7 @@
             "open_issues": 118,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7338,
+            "stars": 7340,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -927,7 +927,7 @@
             "open_issues": 0,
             "owner": "langkhachhoha",
             "repo": "MPaGE",
-            "stars": 32,
+            "stars": 33,
             "topics": [
               "automatic-algorithm-design",
               "capacitated-vehicle-routing-problem",
@@ -1032,7 +1032,7 @@
             "open_issues": 5,
             "owner": "SakanaAI",
             "repo": "ShinkaEvolve",
-            "stars": 1375,
+            "stars": 1378,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1216,7 +1216,7 @@
             "open_issues": 26,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 632,
+            "stars": 633,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1237,7 +1237,7 @@
             "open_issues": 26,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 632,
+            "stars": 633,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1531,8 +1531,8 @@
             "id": 1349952869,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T07:36:28Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-10T00:07:41Z",
+            "open_issues": 3,
             "owner": "xzx34",
             "repo": "AlgoWorlds",
             "stars": 1,
@@ -1808,7 +1808,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T00:22:17.850Z",
+    "last_updated": "2026-09-10T00:20:10.703Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
