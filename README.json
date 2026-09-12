@@ -100,7 +100,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-11-04T17:10:14Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "teshnizi",
             "repo": "OptiMUS",
             "stars": 293,
@@ -208,7 +208,7 @@
             "open_issues": 0,
             "owner": "ai4co",
             "repo": "reevo",
-            "stars": 296,
+            "stars": 297,
             "topics": [
               "ant-colony-optimization",
               "automatic-algorithm-generation",
@@ -406,7 +406,7 @@
             "open_issues": 0,
             "owner": "huangjin-collab",
             "repo": "LHH_DFJSP_SeEvo",
-            "stars": 12,
+            "stars": 13,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -798,8 +798,8 @@
             "id": 984420869,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T06:46:54Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-11T04:01:31Z",
+            "open_issues": 2,
             "owner": "SakanaAI",
             "repo": "ALE-Bench",
             "stars": 219,
@@ -844,7 +844,7 @@
             "open_issues": 118,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7343,
+            "stars": 7354,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -1032,7 +1032,7 @@
             "open_issues": 5,
             "owner": "SakanaAI",
             "repo": "ShinkaEvolve",
-            "stars": 1379,
+            "stars": 1382,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1074,7 +1074,7 @@
             "open_issues": 1,
             "owner": "inter-co",
             "repo": "science-codeevolve",
-            "stars": 144,
+            "stars": 145,
             "topics": [
               "alpha-evolve",
               "alphaevolve",
@@ -1212,11 +1212,11 @@
             "id": 1160689201,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T16:46:13Z",
+            "last_commit": "2026-09-11T17:39:57Z",
             "open_issues": 27,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 633,
+            "stars": 646,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1233,11 +1233,11 @@
             "id": 1160689201,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T16:46:13Z",
+            "last_commit": "2026-09-11T17:39:57Z",
             "open_issues": 27,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 633,
+            "stars": 646,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1469,7 +1469,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-09-10T04:42:22Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "Minw913",
             "repo": "FrontierOR",
             "stars": 34,
@@ -1531,8 +1531,8 @@
             "id": 1349952869,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T00:07:41Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-11T02:59:10Z",
+            "open_issues": 4,
             "owner": "xzx34",
             "repo": "AlgoWorlds",
             "stars": 1,
@@ -1673,7 +1673,7 @@
             "open_issues": 1,
             "owner": "RoyalSkye",
             "repo": "Routing-MVMoE",
-            "stars": 82,
+            "stars": 83,
             "topics": [
               "combinatorial-optimization",
               "foundation-models",
@@ -1808,7 +1808,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T00:15:59.351Z",
+    "last_updated": "2026-09-12T00:23:19.759Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
