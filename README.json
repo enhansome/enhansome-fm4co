@@ -61,7 +61,7 @@
             "open_issues": 6,
             "owner": "google-deepmind",
             "repo": "opro",
-            "stars": 775,
+            "stars": 777,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -103,7 +103,7 @@
             "open_issues": 3,
             "owner": "teshnizi",
             "repo": "OptiMUS",
-            "stars": 293,
+            "stars": 295,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -166,7 +166,7 @@
             "open_issues": 8,
             "owner": "google-deepmind",
             "repo": "funsearch",
-            "stars": 1118,
+            "stars": 1119,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -844,7 +844,7 @@
             "open_issues": 118,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7369,
+            "stars": 7375,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -1032,7 +1032,7 @@
             "open_issues": 5,
             "owner": "SakanaAI",
             "repo": "ShinkaEvolve",
-            "stars": 1389,
+            "stars": 1390,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1216,7 +1216,7 @@
             "open_issues": 27,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 669,
+            "stars": 674,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1237,7 +1237,7 @@
             "open_issues": 27,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 669,
+            "stars": 674,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1808,7 +1808,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T00:42:19.067Z",
+    "last_updated": "2026-09-16T00:31:59.067Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
