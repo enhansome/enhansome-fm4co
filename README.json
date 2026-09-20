@@ -841,10 +841,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-07-18T13:16:12Z",
-            "open_issues": 119,
+            "open_issues": 120,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7400,
+            "stars": 7401,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -1011,7 +1011,7 @@
             "open_issues": 2,
             "owner": "Summer142857",
             "repo": "LLMCoSolver",
-            "stars": 91,
+            "stars": 92,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1032,7 +1032,7 @@
             "open_issues": 5,
             "owner": "SakanaAI",
             "repo": "ShinkaEvolve",
-            "stars": 1397,
+            "stars": 1398,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1703,7 +1703,7 @@
             "open_issues": 4,
             "owner": "ai4co",
             "repo": "routefinder",
-            "stars": 125,
+            "stars": 124,
             "topics": [
               "ai4co",
               "foundation-models",
@@ -1808,7 +1808,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T00:25:37.286Z",
+    "last_updated": "2026-09-20T00:11:12.837Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
