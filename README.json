@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "microsoft",
             "repo": "OptiGuide",
-            "stars": 713,
+            "stars": 714,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -318,7 +318,7 @@
             "open_issues": 0,
             "owner": "Cardinal-Operations",
             "repo": "ORLM",
-            "stars": 276,
+            "stars": 277,
             "topics": [
               "large-language-models",
               "operations-research",
@@ -844,7 +844,7 @@
             "open_issues": 120,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7401,
+            "stars": 7408,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -1029,10 +1029,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-21T13:07:37Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "SakanaAI",
             "repo": "ShinkaEvolve",
-            "stars": 1398,
+            "stars": 1402,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1074,7 +1074,7 @@
             "open_issues": 1,
             "owner": "inter-co",
             "repo": "science-codeevolve",
-            "stars": 148,
+            "stars": 149,
             "topics": [
               "alpha-evolve",
               "alphaevolve",
@@ -1216,7 +1216,7 @@
             "open_issues": 27,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 682,
+            "stars": 683,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1237,7 +1237,7 @@
             "open_issues": 27,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 682,
+            "stars": 683,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1422,7 +1422,7 @@
             "id": 1228167203,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-06T19:26:06Z",
+            "last_commit": "2026-09-20T15:04:30Z",
             "open_issues": 0,
             "owner": "IDEALLab",
             "repo": "neural-solver-synthesis",
@@ -1531,7 +1531,7 @@
             "id": 1349952869,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T02:43:58Z",
+            "last_commit": "2026-09-20T07:39:20Z",
             "open_issues": 6,
             "owner": "xzx34",
             "repo": "AlgoWorlds",
@@ -1808,7 +1808,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T00:11:12.837Z",
+    "last_updated": "2026-09-21T00:19:26.310Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
