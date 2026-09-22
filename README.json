@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "microsoft",
             "repo": "OptiGuide",
-            "stars": 714,
+            "stars": 715,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -166,7 +166,7 @@
             "open_issues": 8,
             "owner": "google-deepmind",
             "repo": "funsearch",
-            "stars": 1122,
+            "stars": 1123,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -208,7 +208,7 @@
             "open_issues": 0,
             "owner": "ai4co",
             "repo": "reevo",
-            "stars": 298,
+            "stars": 299,
             "topics": [
               "ant-colony-optimization",
               "automatic-algorithm-generation",
@@ -844,7 +844,7 @@
             "open_issues": 120,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7408,
+            "stars": 7413,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -1011,7 +1011,7 @@
             "open_issues": 2,
             "owner": "Summer142857",
             "repo": "LLMCoSolver",
-            "stars": 92,
+            "stars": 93,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1032,7 +1032,7 @@
             "open_issues": 6,
             "owner": "SakanaAI",
             "repo": "ShinkaEvolve",
-            "stars": 1402,
+            "stars": 1404,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1074,7 +1074,7 @@
             "open_issues": 1,
             "owner": "inter-co",
             "repo": "science-codeevolve",
-            "stars": 149,
+            "stars": 150,
             "topics": [
               "alpha-evolve",
               "alphaevolve",
@@ -1216,7 +1216,7 @@
             "open_issues": 27,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 683,
+            "stars": 684,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1237,7 +1237,7 @@
             "open_issues": 27,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 683,
+            "stars": 684,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1468,7 +1468,7 @@
             "id": 1252427337,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-10T04:42:22Z",
+            "last_commit": "2026-09-21T02:11:33Z",
             "open_issues": 5,
             "owner": "Minw913",
             "repo": "FrontierOR",
@@ -1531,8 +1531,8 @@
             "id": 1349952869,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-20T07:39:20Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-21T20:54:47Z",
+            "open_issues": 1,
             "owner": "xzx34",
             "repo": "AlgoWorlds",
             "stars": 1,
@@ -1808,7 +1808,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T00:19:26.310Z",
+    "last_updated": "2026-09-22T00:55:44.044Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
