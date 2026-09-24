@@ -103,7 +103,7 @@
             "open_issues": 3,
             "owner": "teshnizi",
             "repo": "OptiMUS",
-            "stars": 296,
+            "stars": 297,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -798,7 +798,7 @@
             "id": 984420869,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-23T00:22:01Z",
+            "last_commit": "2026-09-23T00:44:53Z",
             "open_issues": 2,
             "owner": "SakanaAI",
             "repo": "ALE-Bench",
@@ -844,7 +844,7 @@
             "open_issues": 120,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7416,
+            "stars": 7426,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -885,7 +885,7 @@
             "open_issues": 1,
             "owner": "microsoft",
             "repo": "HeurAgenix",
-            "stars": 91,
+            "stars": 92,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1032,7 +1032,7 @@
             "open_issues": 6,
             "owner": "SakanaAI",
             "repo": "ShinkaEvolve",
-            "stars": 1408,
+            "stars": 1412,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1216,7 +1216,7 @@
             "open_issues": 27,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 685,
+            "stars": 687,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1237,7 +1237,7 @@
             "open_issues": 27,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 685,
+            "stars": 687,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1296,7 +1296,7 @@
             "id": 1215061538,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-07-24T01:42:00Z",
+            "last_commit": "2026-09-23T16:03:02Z",
             "open_issues": 0,
             "owner": "EvoNexusX",
             "repo": "2026HuangEvoORAgent",
@@ -1808,7 +1808,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T00:44:22.471Z",
+    "last_updated": "2026-09-24T00:36:28.964Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
