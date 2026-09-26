@@ -166,7 +166,7 @@
             "open_issues": 8,
             "owner": "google-deepmind",
             "repo": "funsearch",
-            "stars": 1125,
+            "stars": 1126,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -844,7 +844,7 @@
             "open_issues": 121,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7433,
+            "stars": 7437,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -1032,7 +1032,7 @@
             "open_issues": 7,
             "owner": "SakanaAI",
             "repo": "ShinkaEvolve",
-            "stars": 1413,
+            "stars": 1414,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1074,7 +1074,7 @@
             "open_issues": 1,
             "owner": "inter-co",
             "repo": "science-codeevolve",
-            "stars": 150,
+            "stars": 149,
             "topics": [
               "alpha-evolve",
               "alphaevolve",
@@ -1213,10 +1213,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-14T05:07:49Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 689,
+            "stars": 695,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1234,10 +1234,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-14T05:07:49Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 689,
+            "stars": 695,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1808,7 +1808,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T00:37:12.359Z",
+    "last_updated": "2026-09-26T00:41:44.505Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
