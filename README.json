@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "microsoft",
             "repo": "OptiGuide",
-            "stars": 715,
+            "stars": 716,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -166,7 +166,7 @@
             "open_issues": 8,
             "owner": "google-deepmind",
             "repo": "funsearch",
-            "stars": 1125,
+            "stars": 1126,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -802,7 +802,7 @@
             "open_issues": 2,
             "owner": "SakanaAI",
             "repo": "ALE-Bench",
-            "stars": 221,
+            "stars": 222,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -841,10 +841,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-07-18T13:16:12Z",
-            "open_issues": 121,
+            "open_issues": 122,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7440,
+            "stars": 7445,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -881,7 +881,7 @@
             "id": 884705995,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-05-24T12:13:52Z",
+            "last_commit": "2026-09-27T12:36:24Z",
             "open_issues": 1,
             "owner": "microsoft",
             "repo": "HeurAgenix",
@@ -960,7 +960,7 @@
             "open_issues": 0,
             "owner": "milad1378yz",
             "repo": "EvoCut",
-            "stars": 11,
+            "stars": 13,
             "topics": [
               "cutting-planes",
               "evolutionary-algorithm",
@@ -1032,7 +1032,7 @@
             "open_issues": 7,
             "owner": "SakanaAI",
             "repo": "ShinkaEvolve",
-            "stars": 1414,
+            "stars": 1416,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1074,7 +1074,7 @@
             "open_issues": 1,
             "owner": "inter-co",
             "repo": "science-codeevolve",
-            "stars": 148,
+            "stars": 149,
             "topics": [
               "alpha-evolve",
               "alphaevolve",
@@ -1216,7 +1216,7 @@
             "open_issues": 28,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 697,
+            "stars": 699,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1237,7 +1237,7 @@
             "open_issues": 28,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 697,
+            "stars": 699,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1703,7 +1703,7 @@
             "open_issues": 4,
             "owner": "ai4co",
             "repo": "routefinder",
-            "stars": 125,
+            "stars": 126,
             "topics": [
               "ai4co",
               "foundation-models",
@@ -1808,7 +1808,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T00:42:38.865Z",
+    "last_updated": "2026-09-28T00:55:20.989Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
