@@ -208,7 +208,7 @@
             "open_issues": 0,
             "owner": "ai4co",
             "repo": "reevo",
-            "stars": 302,
+            "stars": 303,
             "topics": [
               "ant-colony-optimization",
               "automatic-algorithm-generation",
@@ -318,7 +318,7 @@
             "open_issues": 0,
             "owner": "Cardinal-Operations",
             "repo": "ORLM",
-            "stars": 278,
+            "stars": 279,
             "topics": [
               "large-language-models",
               "operations-research",
@@ -620,7 +620,7 @@
             "id": 944956186,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-06-23T03:00:23Z",
+            "last_commit": "2026-09-30T01:33:54Z",
             "open_issues": 2,
             "owner": "bwz96sco",
             "repo": "or_llm_agent",
@@ -844,7 +844,7 @@
             "open_issues": 105,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7462,
+            "stars": 7467,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -1032,7 +1032,7 @@
             "open_issues": 7,
             "owner": "SakanaAI",
             "repo": "ShinkaEvolve",
-            "stars": 1419,
+            "stars": 1423,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1472,7 +1472,7 @@
             "open_issues": 4,
             "owner": "Minw913",
             "repo": "FrontierOR",
-            "stars": 35,
+            "stars": 36,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1497,6 +1497,48 @@
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
+        },
+        {
+          "node_type": "item",
+          "title": "CORAL",
+          "description": "CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery  COLM 2026 Algorithm",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open-source autoresearch powered by autonomous coding agents. Run Claude Code, OpenCode, and Codex with grading, shared knowledge, and multi-agent evolution. Accepted at COLM 2026.",
+            "homepage": "https://coral.compounding-intelligence.ai",
+            "id": 1183057754,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-08T12:37:45Z",
+            "open_issues": 23,
+            "owner": "Human-Agent-Society",
+            "repo": "CORAL",
+            "stars": 1041,
+            "topics": [
+              "agent-framework",
+              "agent-orchestration",
+              "agentic-ai",
+              "ai-agents",
+              "alpha-evolve",
+              "autonomous-agents",
+              "autoresearch",
+              "claude-code",
+              "code-generation",
+              "codex",
+              "coding-agent",
+              "evolutionary-algorithm",
+              "large-language-models",
+              "llm-agents",
+              "multi-agent",
+              "open-source",
+              "opencode",
+              "scientific-discovery",
+              "self-evolving",
+              "self-evolving-agents"
+            ]
+          },
+          "first_seen": "2026-10-01T01:20:35.830Z"
         },
         {
           "node_type": "item",
@@ -1566,6 +1608,117 @@
             "topics": []
           },
           "first_seen": "2026-09-05T00:12:15.824Z"
+        },
+        {
+          "node_type": "item",
+          "title": "InterOpt",
+          "description": "Ask Before You Optimize: Dynamic Pre-Formulation Clarification for Interactive Optimization  arxiv Formulation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Code and data for \"Ask Before You Optimize\": the OR-Clarify benchmark and InterOPT for interactive requirement clarification before optimization modeling.",
+            "homepage": null,
+            "id": 1354331158,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-09-08T05:14:25Z",
+            "open_issues": 0,
+            "owner": "AIOR-Research",
+            "repo": "InterOpt",
+            "stars": 8,
+            "topics": []
+          },
+          "first_seen": "2026-10-01T01:20:35.830Z"
+        },
+        {
+          "node_type": "item",
+          "title": "SOLID",
+          "description": "Beyond Verified Answers: Solver-Informed Self-Distillation for Bootstrapping Operations Research Language Model  arxiv Formulation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Solver-Informed On-Policy Learning through Self-Distillation for operations-research language models",
+            "homepage": null,
+            "id": 1350427222,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-10T09:00:57Z",
+            "open_issues": 0,
+            "owner": "AIOR-Research",
+            "repo": "SOLID",
+            "stars": 1,
+            "topics": [
+              "machine-learning",
+              "operations-research",
+              "reinforcement-learning",
+              "self-distillation",
+              "verl"
+            ]
+          },
+          "first_seen": "2026-10-01T01:20:35.830Z"
+        },
+        {
+          "node_type": "item",
+          "title": "MAPLE",
+          "description": "MAPLE: Memory-Augmented Planning with Language and Evolution  arxiv Formulation & Benchmark",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "MAPLE optimization runtime and benchmark code.",
+            "homepage": "https://anonymous.4open.science/w/MAPLE-demo-review-F98B/",
+            "id": 1350743183,
+            "language": "Python",
+            "license": "ISC",
+            "last_commit": "2026-09-08T14:31:14Z",
+            "open_issues": 0,
+            "owner": "xin8coder",
+            "repo": "MAPLE",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-10-01T01:20:35.830Z"
+        },
+        {
+          "node_type": "item",
+          "title": "T-GADE",
+          "description": "T-GADE: Thermodynamical Generative-AI-Driven Evolution of LLM Artifacts  arxiv Algorithm",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Thermodynamical Generative-AI-Driven Evolution of LLM Artifacts: code and run records",
+            "homepage": null,
+            "id": 1364541094,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-14T03:23:37Z",
+            "open_issues": 0,
+            "owner": "o-ankomochi-o",
+            "repo": "T-GADE",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-10-01T01:20:35.830Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OptiSkill",
+          "description": "OptiSkill: A Hierarchical and Evolving SkillBank for LLM-Based Optimization Modeling  arxiv Formulation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1249755956,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-05-26T03:16:31Z",
+            "open_issues": 1,
+            "owner": "rachhhhing",
+            "repo": "OptiSkill",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-10-01T01:20:35.830Z"
         }
       ],
       "title": "LLMs for Combinatorial Optimization"
@@ -1731,7 +1884,7 @@
             "open_issues": 2,
             "owner": "naver",
             "repo": "goal-co",
-            "stars": 57,
+            "stars": 58,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1808,7 +1961,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T01:21:05.924Z",
+    "last_updated": "2026-10-01T01:20:35.830Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
@@ -1816,11 +1969,11 @@
       "id": 768441087,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-09-04T13:30:50Z",
-      "open_issues": 2,
+      "last_commit": "2026-09-30T09:47:27Z",
+      "open_issues": 0,
       "owner": "ai4co",
       "repo": "awesome-fm4co",
-      "stars": 586,
+      "stars": 588,
       "topics": [
         "awesome",
         "awesome-list",
@@ -1831,7 +1984,7 @@
         "neural-combinatorial-optimization"
       ]
     },
-    "original_repository_sha": "ff2c242595a0b2ee7c3a08272a6dc7267d7afe82",
+    "original_repository_sha": "8c2a3cb8a94ba263cf3006852602c19de18d55b2",
     "enhanced_repository": "enhansome/enhansome-fm4co",
     "enhanced_repository_description": null,
     "title": "Awesome fm4co with stars"
