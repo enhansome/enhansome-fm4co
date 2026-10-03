@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "microsoft",
             "repo": "OptiGuide",
-            "stars": 717,
+            "stars": 718,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -103,7 +103,7 @@
             "open_issues": 3,
             "owner": "teshnizi",
             "repo": "OptiMUS",
-            "stars": 297,
+            "stars": 299,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -294,7 +294,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-06T16:59:14Z",
-            "open_issues": 6,
+            "open_issues": 5,
             "owner": "FeiLiu36",
             "repo": "EoH",
             "stars": 364,
@@ -844,7 +844,7 @@
             "open_issues": 105,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7474,
+            "stars": 7480,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -1028,11 +1028,11 @@
             "id": 1058901043,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T06:14:27Z",
+            "last_commit": "2026-10-02T13:12:53Z",
             "open_issues": 7,
             "owner": "SakanaAI",
             "repo": "ShinkaEvolve",
-            "stars": 1423,
+            "stars": 1425,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1106,7 +1106,7 @@
             "open_issues": 0,
             "owner": "MIRALab-USTC",
             "repo": "OptiTree",
-            "stars": 21,
+            "stars": 22,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1463,12 +1463,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "A benchmark of 180 literature-grounded OR problems evaluating LLM-generated efficient algorithms",
+            "description": "Benchmarking LLMs on literature-grounded large-scale OR problems for efficient algorithm design (NeurIPS 2026 Datasets and Benchmarks Track).",
             "homepage": null,
             "id": 1252427337,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-26T07:53:29Z",
+            "last_commit": "2026-10-02T23:13:38Z",
             "open_issues": 4,
             "owner": "Minw913",
             "repo": "FrontierOR",
@@ -1514,7 +1514,7 @@
             "open_issues": 23,
             "owner": "Human-Agent-Society",
             "repo": "CORAL",
-            "stars": 1043,
+            "stars": 1044,
             "topics": [
               "agent-framework",
               "agent-orchestration",
@@ -1961,7 +1961,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T01:43:24.302Z",
+    "last_updated": "2026-10-03T01:14:48.260Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
