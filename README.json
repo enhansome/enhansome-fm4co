@@ -844,7 +844,7 @@
             "open_issues": 105,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7480,
+            "stars": 7481,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -1384,7 +1384,7 @@
             "open_issues": 1,
             "owner": "ttanv",
             "repo": "levi",
-            "stars": 46,
+            "stars": 47,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1961,7 +1961,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:14:48.260Z",
+    "last_updated": "2026-10-03T04:44:12.001Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
