@@ -844,7 +844,7 @@
             "open_issues": 105,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7481,
+            "stars": 7484,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -1032,7 +1032,7 @@
             "open_issues": 7,
             "owner": "SakanaAI",
             "repo": "ShinkaEvolve",
-            "stars": 1425,
+            "stars": 1426,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1074,7 +1074,7 @@
             "open_issues": 1,
             "owner": "inter-co",
             "repo": "science-codeevolve",
-            "stars": 149,
+            "stars": 148,
             "topics": [
               "alpha-evolve",
               "alphaevolve",
@@ -1405,7 +1405,7 @@
             "open_issues": 0,
             "owner": "hzn18",
             "repo": "LLM4Branch",
-            "stars": 7,
+            "stars": 8,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1961,7 +1961,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:44:12.001Z",
+    "last_updated": "2026-10-04T01:42:47.857Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
@@ -1973,7 +1973,7 @@
       "open_issues": 0,
       "owner": "ai4co",
       "repo": "awesome-fm4co",
-      "stars": 588,
+      "stars": 590,
       "topics": [
         "awesome",
         "awesome-list",
