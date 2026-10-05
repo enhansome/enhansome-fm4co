@@ -61,7 +61,7 @@
             "open_issues": 6,
             "owner": "google-deepmind",
             "repo": "opro",
-            "stars": 781,
+            "stars": 782,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -166,7 +166,7 @@
             "open_issues": 8,
             "owner": "google-deepmind",
             "repo": "funsearch",
-            "stars": 1126,
+            "stars": 1127,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -844,7 +844,7 @@
             "open_issues": 105,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7484,
+            "stars": 7489,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -1032,7 +1032,7 @@
             "open_issues": 7,
             "owner": "SakanaAI",
             "repo": "ShinkaEvolve",
-            "stars": 1426,
+            "stars": 1427,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1447,7 +1447,7 @@
             "open_issues": 0,
             "owner": "ZIB-IOL",
             "repo": "EvoReplay",
-            "stars": 5,
+            "stars": 6,
             "topics": [
               "agents",
               "evolutionary-algorithms",
@@ -1514,7 +1514,7 @@
             "open_issues": 23,
             "owner": "Human-Agent-Society",
             "repo": "CORAL",
-            "stars": 1044,
+            "stars": 1043,
             "topics": [
               "agent-framework",
               "agent-orchestration",
@@ -1961,7 +1961,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T01:42:47.857Z",
+    "last_updated": "2026-10-05T01:03:06.541Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
@@ -1973,7 +1973,7 @@
       "open_issues": 0,
       "owner": "ai4co",
       "repo": "awesome-fm4co",
-      "stars": 590,
+      "stars": 591,
       "topics": [
         "awesome",
         "awesome-list",
