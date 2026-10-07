@@ -798,11 +798,11 @@
             "id": 984420869,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T17:19:09Z",
+            "last_commit": "2026-10-07T01:08:43Z",
             "open_issues": 2,
             "owner": "SakanaAI",
             "repo": "ALE-Bench",
-            "stars": 223,
+            "stars": 224,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -844,7 +844,7 @@
             "open_issues": 103,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7495,
+            "stars": 7496,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -1011,7 +1011,7 @@
             "open_issues": 2,
             "owner": "Summer142857",
             "repo": "LLMCoSolver",
-            "stars": 93,
+            "stars": 94,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1032,7 +1032,7 @@
             "open_issues": 6,
             "owner": "SakanaAI",
             "repo": "ShinkaEvolve",
-            "stars": 1430,
+            "stars": 1431,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1514,7 +1514,7 @@
             "open_issues": 23,
             "owner": "Human-Agent-Society",
             "repo": "CORAL",
-            "stars": 1044,
+            "stars": 1046,
             "topics": [
               "agent-framework",
               "agent-orchestration",
@@ -1961,7 +1961,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:21:00.826Z",
+    "last_updated": "2026-10-07T01:39:56.178Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
@@ -1973,7 +1973,7 @@
       "open_issues": 0,
       "owner": "ai4co",
       "repo": "awesome-fm4co",
-      "stars": 591,
+      "stars": 592,
       "topics": [
         "awesome",
         "awesome-list",
