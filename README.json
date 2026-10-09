@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "microsoft",
             "repo": "OptiGuide",
-            "stars": 718,
+            "stars": 719,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -103,7 +103,7 @@
             "open_issues": 3,
             "owner": "teshnizi",
             "repo": "OptiMUS",
-            "stars": 300,
+            "stars": 301,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -276,7 +276,7 @@
             "open_issues": 1,
             "owner": "Zhehui-Huang",
             "repo": "LLM_Routing",
-            "stars": 20,
+            "stars": 19,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -516,7 +516,7 @@
             "open_issues": 0,
             "owner": "zz1358m",
             "repo": "MCTS-AHD-master",
-            "stars": 87,
+            "stars": 88,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -624,7 +624,7 @@
             "open_issues": 2,
             "owner": "bwz96sco",
             "repo": "or_llm_agent",
-            "stars": 101,
+            "stars": 102,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -823,7 +823,7 @@
             "open_issues": 0,
             "owner": "OliverLeeXZ",
             "repo": "OPT-BENCH",
-            "stars": 125,
+            "stars": 126,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -841,10 +841,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-06T06:08:15Z",
-            "open_issues": 103,
+            "open_issues": 107,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7497,
+            "stars": 7504,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -1011,7 +1011,7 @@
             "open_issues": 2,
             "owner": "Summer142857",
             "repo": "LLMCoSolver",
-            "stars": 94,
+            "stars": 95,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1032,7 +1032,7 @@
             "open_issues": 6,
             "owner": "SakanaAI",
             "repo": "ShinkaEvolve",
-            "stars": 1432,
+            "stars": 1433,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1186,7 +1186,7 @@
             "id": 1157564105,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T01:41:07Z",
+            "last_commit": "2026-10-08T10:02:03Z",
             "open_issues": 0,
             "owner": "qiliuchn",
             "repo": "OR-Agent",
@@ -1472,7 +1472,7 @@
             "open_issues": 4,
             "owner": "Minw913",
             "repo": "FrontierOR",
-            "stars": 38,
+            "stars": 39,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1514,7 +1514,7 @@
             "open_issues": 23,
             "owner": "Human-Agent-Society",
             "repo": "CORAL",
-            "stars": 1048,
+            "stars": 1054,
             "topics": [
               "agent-framework",
               "agent-orchestration",
@@ -1690,7 +1690,7 @@
             "id": 1364541094,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-14T03:23:37Z",
+            "last_commit": "2026-10-08T05:27:58Z",
             "open_issues": 0,
             "owner": "o-ankomochi-o",
             "repo": "T-GADE",
@@ -1961,7 +1961,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T02:05:10.983Z",
+    "last_updated": "2026-10-09T02:19:03.491Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
