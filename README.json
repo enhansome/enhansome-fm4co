@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "microsoft",
             "repo": "OptiGuide",
-            "stars": 719,
+            "stars": 720,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -297,7 +297,7 @@
             "open_issues": 5,
             "owner": "FeiLiu36",
             "repo": "EoH",
-            "stars": 365,
+            "stars": 366,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -840,11 +840,11 @@
             "id": 984096689,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T06:08:15Z",
-            "open_issues": 108,
+            "last_commit": "2026-10-11T00:53:44Z",
+            "open_issues": 96,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7511,
+            "stars": 7518,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -885,7 +885,7 @@
             "open_issues": 1,
             "owner": "microsoft",
             "repo": "HeurAgenix",
-            "stars": 91,
+            "stars": 92,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1032,7 +1032,7 @@
             "open_issues": 6,
             "owner": "SakanaAI",
             "repo": "ShinkaEvolve",
-            "stars": 1436,
+            "stars": 1440,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1216,7 +1216,7 @@
             "open_issues": 28,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 707,
+            "stars": 709,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1237,7 +1237,7 @@
             "open_issues": 28,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 707,
+            "stars": 709,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1384,7 +1384,7 @@
             "open_issues": 1,
             "owner": "ttanv",
             "repo": "levi",
-            "stars": 47,
+            "stars": 48,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1514,7 +1514,7 @@
             "open_issues": 23,
             "owner": "Human-Agent-Society",
             "repo": "CORAL",
-            "stars": 1060,
+            "stars": 1062,
             "topics": [
               "agent-framework",
               "agent-orchestration",
@@ -1961,7 +1961,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T01:49:07.782Z",
+    "last_updated": "2026-10-11T01:03:40.076Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
