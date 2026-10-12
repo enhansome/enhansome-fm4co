@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "microsoft",
             "repo": "OptiGuide",
-            "stars": 720,
+            "stars": 721,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -166,7 +166,7 @@
             "open_issues": 8,
             "owner": "google-deepmind",
             "repo": "funsearch",
-            "stars": 1129,
+            "stars": 1132,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -297,7 +297,7 @@
             "open_issues": 5,
             "owner": "FeiLiu36",
             "repo": "EoH",
-            "stars": 366,
+            "stars": 367,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -840,11 +840,11 @@
             "id": 984096689,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-11T00:53:44Z",
+            "last_commit": "2026-10-11T03:40:16Z",
             "open_issues": 96,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7518,
+            "stars": 7527,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -1032,7 +1032,7 @@
             "open_issues": 6,
             "owner": "SakanaAI",
             "repo": "ShinkaEvolve",
-            "stars": 1440,
+            "stars": 1442,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1074,7 +1074,7 @@
             "open_issues": 1,
             "owner": "inter-co",
             "repo": "science-codeevolve",
-            "stars": 149,
+            "stars": 150,
             "topics": [
               "alpha-evolve",
               "alphaevolve",
@@ -1468,11 +1468,11 @@
             "id": 1252427337,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-02T23:13:38Z",
+            "last_commit": "2026-10-11T17:21:42Z",
             "open_issues": 4,
             "owner": "Minw913",
             "repo": "FrontierOR",
-            "stars": 39,
+            "stars": 40,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1514,7 +1514,7 @@
             "open_issues": 23,
             "owner": "Human-Agent-Society",
             "repo": "CORAL",
-            "stars": 1062,
+            "stars": 1063,
             "topics": [
               "agent-framework",
               "agent-orchestration",
@@ -1856,7 +1856,7 @@
             "open_issues": 4,
             "owner": "ai4co",
             "repo": "routefinder",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "ai4co",
               "foundation-models",
@@ -1961,7 +1961,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T01:03:40.076Z",
+    "last_updated": "2026-10-12T01:25:42.803Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
