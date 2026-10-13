@@ -61,7 +61,7 @@
             "open_issues": 6,
             "owner": "google-deepmind",
             "repo": "opro",
-            "stars": 783,
+            "stars": 784,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -103,7 +103,7 @@
             "open_issues": 3,
             "owner": "teshnizi",
             "repo": "OptiMUS",
-            "stars": 303,
+            "stars": 304,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -297,7 +297,7 @@
             "open_issues": 5,
             "owner": "FeiLiu36",
             "repo": "EoH",
-            "stars": 367,
+            "stars": 368,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -844,7 +844,7 @@
             "open_issues": 96,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7527,
+            "stars": 7535,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -1032,7 +1032,7 @@
             "open_issues": 6,
             "owner": "SakanaAI",
             "repo": "ShinkaEvolve",
-            "stars": 1442,
+            "stars": 1444,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1216,7 +1216,7 @@
             "open_issues": 28,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 709,
+            "stars": 710,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1237,7 +1237,7 @@
             "open_issues": 28,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 709,
+            "stars": 710,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1363,7 +1363,7 @@
             "open_issues": 0,
             "owner": "Antoniano1963",
             "repo": "AHD-Agent",
-            "stars": 5,
+            "stars": 6,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1514,7 +1514,7 @@
             "open_issues": 23,
             "owner": "Human-Agent-Society",
             "repo": "CORAL",
-            "stars": 1063,
+            "stars": 1065,
             "topics": [
               "agent-framework",
               "agent-orchestration",
@@ -1625,7 +1625,7 @@
             "open_issues": 0,
             "owner": "AIOR-Research",
             "repo": "InterOpt",
-            "stars": 8,
+            "stars": 9,
             "topics": []
           },
           "first_seen": "2026-10-01T01:20:35.830Z"
@@ -1763,7 +1763,7 @@
             "open_issues": 3,
             "owner": "FeiLiu36",
             "repo": "MTNCO",
-            "stars": 24,
+            "stars": 25,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1961,7 +1961,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T01:25:42.803Z",
+    "last_updated": "2026-10-13T03:04:52.392Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
@@ -1973,7 +1973,7 @@
       "open_issues": 0,
       "owner": "ai4co",
       "repo": "awesome-fm4co",
-      "stars": 592,
+      "stars": 593,
       "topics": [
         "awesome",
         "awesome-list",
