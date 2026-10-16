@@ -103,7 +103,7 @@
             "open_issues": 3,
             "owner": "teshnizi",
             "repo": "OptiMUS",
-            "stars": 304,
+            "stars": 305,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -163,7 +163,7 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2024-02-05T10:32:18Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "google-deepmind",
             "repo": "funsearch",
             "stars": 1133,
@@ -624,7 +624,7 @@
             "open_issues": 2,
             "owner": "bwz96sco",
             "repo": "or_llm_agent",
-            "stars": 103,
+            "stars": 104,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -772,7 +772,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-04-25T20:15:22Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "cornell-zhang",
             "repo": "heurigym",
             "stars": 97,
@@ -798,11 +798,11 @@
             "id": 984420869,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T02:20:07Z",
+            "last_commit": "2026-10-15T18:11:49Z",
             "open_issues": 3,
             "owner": "SakanaAI",
             "repo": "ALE-Bench",
-            "stars": 224,
+            "stars": 226,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -841,10 +841,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-13T20:32:01Z",
-            "open_issues": 95,
+            "open_issues": 98,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7553,
+            "stars": 7559,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -1032,7 +1032,7 @@
             "open_issues": 8,
             "owner": "SakanaAI",
             "repo": "ShinkaEvolve",
-            "stars": 1450,
+            "stars": 1457,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1216,7 +1216,7 @@
             "open_issues": 28,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 715,
+            "stars": 716,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1237,7 +1237,7 @@
             "open_issues": 28,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 715,
+            "stars": 716,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1472,7 +1472,7 @@
             "open_issues": 4,
             "owner": "Minw913",
             "repo": "FrontierOR",
-            "stars": 40,
+            "stars": 41,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1514,7 +1514,7 @@
             "open_issues": 23,
             "owner": "Human-Agent-Society",
             "repo": "CORAL",
-            "stars": 1069,
+            "stars": 1072,
             "topics": [
               "agent-framework",
               "agent-orchestration",
@@ -1560,6 +1560,32 @@
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
+        },
+        {
+          "node_type": "item",
+          "title": "flare",
+          "description": "FLARE: Verifying MILP Reformulations with LLM-Based Theorem Proving  arxiv Formulation & Benchmark",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Official implementation of \"FLARE: Verifying MILP Reformulations with LLM-Based Theorem Proving\"",
+            "homepage": "https://flare.henryrobbins.com",
+            "id": 1217699806,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-08-27T17:42:54Z",
+            "open_issues": 1,
+            "owner": "henryrobbins",
+            "repo": "flare",
+            "stars": 11,
+            "topics": [
+              "automated-theorem-proving",
+              "llm-agents",
+              "mixed-integer-linear-programming",
+              "reformulation"
+            ]
+          },
+          "first_seen": "2026-10-16T00:30:17.871Z"
         },
         {
           "node_type": "item",
@@ -1719,6 +1745,116 @@
             "topics": []
           },
           "first_seen": "2026-10-01T01:20:35.830Z"
+        },
+        {
+          "node_type": "item",
+          "title": "LLMMetaSolver",
+          "description": "LLMs as Adaptive Meta-Solvers: Strategy-Diverse RL for Industrial-Scale Optimization  arxiv Algorithm",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1363468194,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-10-10T07:05:27Z",
+            "open_issues": 0,
+            "owner": "tokentideAI",
+            "repo": "LLMMetaSolver",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-10-16T00:30:17.871Z"
+        },
+        {
+          "node_type": "item",
+          "title": "SimpleEvol-Master",
+          "description": "SimpleEvol: An Agent-Loop Framework for LLM-Driven Automated Heuristic Design with Minimal Human Priors  NeurIPS 2026 Algorithm",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Codes and artifacts for [Neurips2026]\"SimpleEvol: An Agent-Loop Framework for LLM-Driven Automated Heuristic Design with Minimal Human Priors\"",
+            "homepage": null,
+            "id": 1394494634,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-09-30T05:03:26Z",
+            "open_issues": 0,
+            "owner": "HenryZhu1029",
+            "repo": "SimpleEvol-Master",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-10-16T00:30:17.871Z"
+        },
+        {
+          "node_type": "item",
+          "title": "LACE",
+          "description": "Large language models discover complementary heuristics for combinatorial optimization  Nature Machine Intelligence Algorithm",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "LACE: LLM-driven Algorithm Construction via Complementary Evolution — reference implementation for the Nature Machine Intelligence paper \"Large Language Models Discover Complementary Heuristics for Combinatorial Optimization\"",
+            "homepage": null,
+            "id": 1330669077,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-08-14T01:58:19Z",
+            "open_issues": 0,
+            "owner": "PJ-NTU",
+            "repo": "LACE",
+            "stars": 17,
+            "topics": []
+          },
+          "first_seen": "2026-10-16T00:30:17.871Z"
+        },
+        {
+          "node_type": "item",
+          "title": "frugalevo",
+          "description": "FrugalEvo: Towards Cost-Aware LLM-Guided Program Evolution  arxiv Algorithm",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Official implementation of \"FrugalEvo: Towards Cost-Aware LLM-Guided Program Evolution\"",
+            "homepage": null,
+            "id": 1402002523,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-05T13:01:31Z",
+            "open_issues": 0,
+            "owner": "chchenhui",
+            "repo": "frugalevo",
+            "stars": 12,
+            "topics": []
+          },
+          "first_seen": "2026-10-16T00:30:17.871Z"
+        },
+        {
+          "node_type": "item",
+          "title": "AdaEva",
+          "description": "AdaEva: Accelerating LLM-Driven Algorithm Design with Adaptive Partial Evaluation  arxiv Algorithm",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "AdaEva: Accelerating LLM-Driven Algorithm Design with Adaptive Partial Evaluation",
+            "homepage": "https://taing.net/adaeva",
+            "id": 1388837753,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-10T20:38:25Z",
+            "open_issues": 0,
+            "owner": "taindp98",
+            "repo": "AdaEva",
+            "stars": 1,
+            "topics": [
+              "algorithm-configuration",
+              "algorithm-design",
+              "llm4ad",
+              "optimisation"
+            ]
+          },
+          "first_seen": "2026-10-16T00:30:17.871Z"
         }
       ],
       "title": "LLMs for Combinatorial Optimization"
@@ -1955,13 +2091,34 @@
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Routing-POLAR",
+          "description": "Improving Cross-Problem Vehicle Routing with Locally Augmented Preferences and Representation Disentanglement  arxiv",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "This is the official repository of the paper Improving Cross-Problem Vehicle Routing with Locally Augmented Preferences and Representation Disentanglement",
+            "homepage": null,
+            "id": 1219036909,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-08-25T14:03:07Z",
+            "open_issues": 0,
+            "owner": "AJ-Correa",
+            "repo": "Routing-POLAR",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-10-16T00:30:17.871Z"
         }
       ],
       "title": "Domain FMs for Combinatorial Optimization"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T00:37:07.167Z",
+    "last_updated": "2026-10-16T00:30:17.871Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
@@ -1969,7 +2126,7 @@
       "id": 768441087,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-09-30T09:47:27Z",
+      "last_commit": "2026-10-15T08:34:33Z",
       "open_issues": 0,
       "owner": "ai4co",
       "repo": "awesome-fm4co",
@@ -1984,7 +2141,7 @@
         "neural-combinatorial-optimization"
       ]
     },
-    "original_repository_sha": "8c2a3cb8a94ba263cf3006852602c19de18d55b2",
+    "original_repository_sha": "bcd1a45255144cbeb5b2166e205bc35d827b9c52",
     "enhanced_repository": "enhansome/enhansome-fm4co",
     "enhanced_repository_description": null,
     "title": "Awesome fm4co with stars"
