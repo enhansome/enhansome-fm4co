@@ -166,7 +166,7 @@
             "open_issues": 9,
             "owner": "google-deepmind",
             "repo": "funsearch",
-            "stars": 1134,
+            "stars": 1135,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -840,11 +840,11 @@
             "id": 984096689,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-19T22:58:35Z",
-            "open_issues": 95,
+            "last_commit": "2026-10-20T19:30:48Z",
+            "open_issues": 97,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7600,
+            "stars": 7606,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -1029,10 +1029,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-05T04:18:29Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "SakanaAI",
             "repo": "ShinkaEvolve",
-            "stars": 1469,
+            "stars": 1474,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1472,7 +1472,7 @@
             "open_issues": 4,
             "owner": "Minw913",
             "repo": "FrontierOR",
-            "stars": 41,
+            "stars": 43,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1511,10 +1511,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-19T05:19:16Z",
-            "open_issues": 23,
+            "open_issues": 24,
             "owner": "Human-Agent-Society",
             "repo": "CORAL",
-            "stars": 1082,
+            "stars": 1084,
             "topics": [
               "agent-framework",
               "agent-orchestration",
@@ -1577,7 +1577,7 @@
             "open_issues": 1,
             "owner": "henryrobbins",
             "repo": "flare",
-            "stars": 11,
+            "stars": 12,
             "topics": [
               "automated-theorem-proving",
               "llm-agents",
@@ -2118,7 +2118,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T01:07:00.660Z",
+    "last_updated": "2026-10-21T00:41:37.954Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
