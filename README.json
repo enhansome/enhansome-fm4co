@@ -166,7 +166,7 @@
             "open_issues": 9,
             "owner": "google-deepmind",
             "repo": "funsearch",
-            "stars": 1136,
+            "stars": 1137,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -297,7 +297,7 @@
             "open_issues": 5,
             "owner": "FeiLiu36",
             "repo": "EoH",
-            "stars": 373,
+            "stars": 374,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -802,7 +802,7 @@
             "open_issues": 2,
             "owner": "SakanaAI",
             "repo": "ALE-Bench",
-            "stars": 228,
+            "stars": 229,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -840,11 +840,11 @@
             "id": 984096689,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T22:22:06Z",
-            "open_issues": 102,
+            "last_commit": "2026-10-24T05:12:39Z",
+            "open_issues": 103,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7634,
+            "stars": 7641,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -1577,7 +1577,7 @@
             "open_issues": 1,
             "owner": "henryrobbins",
             "repo": "flare",
-            "stars": 12,
+            "stars": 13,
             "topics": [
               "automated-theorem-proving",
               "llm-agents",
@@ -1825,7 +1825,7 @@
             "open_issues": 0,
             "owner": "chchenhui",
             "repo": "frugalevo",
-            "stars": 13,
+            "stars": 14,
             "topics": []
           },
           "first_seen": "2026-10-16T00:30:17.871Z"
@@ -2118,7 +2118,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T00:50:13.021Z",
+    "last_updated": "2026-10-25T00:23:15.744Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
