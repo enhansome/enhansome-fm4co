@@ -516,7 +516,7 @@
             "open_issues": 0,
             "owner": "zz1358m",
             "repo": "MCTS-AHD-master",
-            "stars": 89,
+            "stars": 90,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -708,7 +708,7 @@
             "open_issues": 2,
             "owner": "thuiar",
             "repo": "LLM-LNS",
-            "stars": 15,
+            "stars": 16,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -802,7 +802,7 @@
             "open_issues": 2,
             "owner": "SakanaAI",
             "repo": "ALE-Bench",
-            "stars": 234,
+            "stars": 235,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -840,11 +840,11 @@
             "id": 984096689,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T05:03:06Z",
-            "open_issues": 103,
+            "last_commit": "2026-10-29T20:40:51Z",
+            "open_issues": 107,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7671,
+            "stars": 7674,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -1032,7 +1032,7 @@
             "open_issues": 17,
             "owner": "SakanaAI",
             "repo": "ShinkaEvolve",
-            "stars": 1485,
+            "stars": 1487,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1070,8 +1070,8 @@
             "id": 1076305519,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T09:17:11Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-29T14:04:54Z",
+            "open_issues": 1,
             "owner": "inter-co",
             "repo": "science-codeevolve",
             "stars": 153,
@@ -1511,10 +1511,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-19T05:19:16Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "Human-Agent-Society",
             "repo": "CORAL",
-            "stars": 1104,
+            "stars": 1105,
             "topics": [
               "agent-framework",
               "agent-orchestration",
@@ -1556,7 +1556,7 @@
             "open_issues": 0,
             "owner": "Xyz-yuanhf",
             "repo": "formuevo",
-            "stars": 5,
+            "stars": 6,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -2118,7 +2118,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T01:52:15.619Z",
+    "last_updated": "2026-10-30T02:01:28.517Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
