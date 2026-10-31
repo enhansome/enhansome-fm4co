@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "microsoft",
             "repo": "OptiGuide",
-            "stars": 726,
+            "stars": 727,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -61,7 +61,7 @@
             "open_issues": 6,
             "owner": "google-deepmind",
             "repo": "opro",
-            "stars": 786,
+            "stars": 787,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -406,7 +406,7 @@
             "open_issues": 0,
             "owner": "huangjin-collab",
             "repo": "LHH_DFJSP_SeEvo",
-            "stars": 14,
+            "stars": 15,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -840,11 +840,11 @@
             "id": 984096689,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T20:40:51Z",
-            "open_issues": 107,
+            "last_commit": "2026-10-31T00:51:49Z",
+            "open_issues": 106,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7674,
+            "stars": 7677,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -960,7 +960,7 @@
             "open_issues": 0,
             "owner": "milad1378yz",
             "repo": "EvoCut",
-            "stars": 13,
+            "stars": 11,
             "topics": [
               "cutting-planes",
               "evolutionary-algorithm",
@@ -1029,10 +1029,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-05T04:18:29Z",
-            "open_issues": 17,
+            "open_issues": 19,
             "owner": "SakanaAI",
             "repo": "ShinkaEvolve",
-            "stars": 1487,
+            "stars": 1488,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1216,7 +1216,7 @@
             "open_issues": 33,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 728,
+            "stars": 731,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1237,7 +1237,7 @@
             "open_issues": 33,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 728,
+            "stars": 731,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1511,10 +1511,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-19T05:19:16Z",
-            "open_issues": 25,
+            "open_issues": 29,
             "owner": "Human-Agent-Society",
             "repo": "CORAL",
-            "stars": 1105,
+            "stars": 1108,
             "topics": [
               "agent-framework",
               "agent-orchestration",
@@ -1599,8 +1599,8 @@
             "id": 1349952869,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T01:47:44Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-30T04:47:47Z",
+            "open_issues": 4,
             "owner": "xzx34",
             "repo": "AlgoWorlds",
             "stars": 1,
@@ -2118,7 +2118,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T02:01:28.517Z",
+    "last_updated": "2026-10-31T01:40:09.013Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
