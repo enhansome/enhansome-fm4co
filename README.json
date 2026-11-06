@@ -166,7 +166,7 @@
             "open_issues": 9,
             "owner": "google-deepmind",
             "repo": "funsearch",
-            "stars": 1142,
+            "stars": 1143,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -840,11 +840,11 @@
             "id": 984096689,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T06:35:07Z",
+            "last_commit": "2026-11-05T12:52:57Z",
             "open_issues": 92,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7710,
+            "stars": 7719,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -1029,10 +1029,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-05T04:18:29Z",
-            "open_issues": 22,
+            "open_issues": 23,
             "owner": "SakanaAI",
             "repo": "ShinkaEvolve",
-            "stars": 1496,
+            "stars": 1500,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1216,7 +1216,7 @@
             "open_issues": 33,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 736,
+            "stars": 745,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1237,7 +1237,7 @@
             "open_issues": 33,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 736,
+            "stars": 745,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1346,6 +1346,27 @@
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
+        },
+        {
+          "node_type": "item",
+          "title": "CoupleEvo",
+          "description": "CoupleEvo: Evolving Heuristics for Coupled Optimization Problems Using Large Language Models  GECCO 2026 Algorithm",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1191781939,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-06-15T07:16:25Z",
+            "open_issues": 0,
+            "owner": "tb-git-kit-research",
+            "repo": "CoupleEvo",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-11-06T02:35:34.770Z"
         },
         {
           "node_type": "item",
@@ -1514,7 +1535,7 @@
             "open_issues": 29,
             "owner": "Human-Agent-Society",
             "repo": "CORAL",
-            "stars": 1119,
+            "stars": 1122,
             "topics": [
               "agent-framework",
               "agent-orchestration",
@@ -1804,7 +1825,7 @@
             "open_issues": 0,
             "owner": "PJ-NTU",
             "repo": "LACE",
-            "stars": 31,
+            "stars": 32,
             "topics": []
           },
           "first_seen": "2026-10-16T00:30:17.871Z"
@@ -2118,7 +2139,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T02:35:45.491Z",
+    "last_updated": "2026-11-06T02:35:34.770Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
