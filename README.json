@@ -61,7 +61,7 @@
             "open_issues": 6,
             "owner": "google-deepmind",
             "repo": "opro",
-            "stars": 790,
+            "stars": 791,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -166,7 +166,7 @@
             "open_issues": 9,
             "owner": "google-deepmind",
             "repo": "funsearch",
-            "stars": 1145,
+            "stars": 1146,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -624,7 +624,7 @@
             "open_issues": 2,
             "owner": "bwz96sco",
             "repo": "or_llm_agent",
-            "stars": 107,
+            "stars": 108,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -798,7 +798,7 @@
             "id": 984420869,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T03:41:32Z",
+            "last_commit": "2026-11-11T00:19:37Z",
             "open_issues": 2,
             "owner": "SakanaAI",
             "repo": "ALE-Bench",
@@ -844,7 +844,7 @@
             "open_issues": 95,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7748,
+            "stars": 7754,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -1028,11 +1028,11 @@
             "id": 1058901043,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T16:31:20Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-10T23:31:41Z",
+            "open_issues": 4,
             "owner": "SakanaAI",
             "repo": "ShinkaEvolve",
-            "stars": 1504,
+            "stars": 1506,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1070,8 +1070,8 @@
             "id": 1076305519,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T14:04:54Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-10T23:13:04Z",
+            "open_issues": 1,
             "owner": "inter-co",
             "repo": "science-codeevolve",
             "stars": 157,
@@ -1672,7 +1672,7 @@
             "open_issues": 0,
             "owner": "AIOR-Research",
             "repo": "InterOpt",
-            "stars": 10,
+            "stars": 11,
             "topics": []
           },
           "first_seen": "2026-10-01T01:20:35.830Z"
@@ -1762,7 +1762,7 @@
             "open_issues": 1,
             "owner": "rachhhhing",
             "repo": "OptiSkill",
-            "stars": 2,
+            "stars": 3,
             "topics": []
           },
           "first_seen": "2026-10-01T01:20:35.830Z"
@@ -2139,7 +2139,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T04:11:47.783Z",
+    "last_updated": "2026-11-11T01:59:40.572Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
