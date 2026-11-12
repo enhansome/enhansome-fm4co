@@ -166,7 +166,7 @@
             "open_issues": 9,
             "owner": "google-deepmind",
             "repo": "funsearch",
-            "stars": 1146,
+            "stars": 1147,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -208,7 +208,7 @@
             "open_issues": 0,
             "owner": "ai4co",
             "repo": "reevo",
-            "stars": 309,
+            "stars": 311,
             "topics": [
               "ant-colony-optimization",
               "automatic-algorithm-generation",
@@ -427,7 +427,7 @@
             "open_issues": 0,
             "owner": "datphamvn",
             "repo": "HSEvo",
-            "stars": 40,
+            "stars": 41,
             "topics": [
               "automatic-algorithm-generation",
               "bin-packing-problem",
@@ -844,7 +844,7 @@
             "open_issues": 95,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7754,
+            "stars": 7764,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -1008,10 +1008,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-10-24T07:36:27Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "Summer142857",
             "repo": "LLMCoSolver",
-            "stars": 95,
+            "stars": 96,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1028,11 +1028,11 @@
             "id": 1058901043,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T23:31:41Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-11T16:30:12Z",
+            "open_issues": 6,
             "owner": "SakanaAI",
             "repo": "ShinkaEvolve",
-            "stars": 1506,
+            "stars": 1507,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1070,8 +1070,8 @@
             "id": 1076305519,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T23:13:04Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-11T15:44:42Z",
+            "open_issues": 0,
             "owner": "inter-co",
             "repo": "science-codeevolve",
             "stars": 157,
@@ -1216,7 +1216,7 @@
             "open_issues": 33,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 756,
+            "stars": 758,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1237,7 +1237,7 @@
             "open_issues": 33,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 756,
+            "stars": 758,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1493,7 +1493,7 @@
             "open_issues": 4,
             "owner": "Minw913",
             "repo": "FrontierOR",
-            "stars": 44,
+            "stars": 45,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1779,7 +1779,7 @@
             "id": 1363468194,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-10T07:05:27Z",
+            "last_commit": "2026-11-12T02:25:49Z",
             "open_issues": 0,
             "owner": "tokentideAI",
             "repo": "LLMMetaSolver",
@@ -1825,7 +1825,7 @@
             "open_issues": 0,
             "owner": "PJ-NTU",
             "repo": "LACE",
-            "stars": 32,
+            "stars": 33,
             "topics": []
           },
           "first_seen": "2026-10-16T00:30:17.871Z"
@@ -2139,7 +2139,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T01:59:40.572Z",
+    "last_updated": "2026-11-12T03:09:28.212Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
