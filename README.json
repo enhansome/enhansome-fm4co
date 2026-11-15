@@ -844,7 +844,7 @@
             "open_issues": 98,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7776,
+            "stars": 7779,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -1032,7 +1032,7 @@
             "open_issues": 1,
             "owner": "SakanaAI",
             "repo": "ShinkaEvolve",
-            "stars": 1509,
+            "stars": 1514,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1493,7 +1493,7 @@
             "open_issues": 4,
             "owner": "Minw913",
             "repo": "FrontierOR",
-            "stars": 45,
+            "stars": 46,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1535,7 +1535,7 @@
             "open_issues": 30,
             "owner": "Human-Agent-Society",
             "repo": "CORAL",
-            "stars": 1128,
+            "stars": 1129,
             "topics": [
               "agent-framework",
               "agent-orchestration",
@@ -1779,7 +1779,7 @@
             "id": 1363468194,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-12T08:33:00Z",
+            "last_commit": "2026-11-14T12:11:04Z",
             "open_issues": 0,
             "owner": "tokentideAI",
             "repo": "LLMMetaSolver",
@@ -2139,7 +2139,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T02:30:55.215Z",
+    "last_updated": "2026-11-15T01:59:23.537Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
