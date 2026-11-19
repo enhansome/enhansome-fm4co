@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "microsoft",
             "repo": "OptiGuide",
-            "stars": 731,
+            "stars": 733,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -883,10 +883,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-18T03:43:05Z",
-            "open_issues": 94,
+            "open_issues": 95,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7802,
+            "stars": 7809,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -1175,11 +1175,11 @@
             "id": 1058901043,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T22:12:47Z",
+            "last_commit": "2026-11-18T17:11:35Z",
             "open_issues": 6,
             "owner": "SakanaAI",
             "repo": "ShinkaEvolve",
-            "stars": 1522,
+            "stars": 1525,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1463,7 +1463,7 @@
             "open_issues": 1,
             "owner": "optsuite",
             "repo": "MIPLIB-NL",
-            "stars": 23,
+            "stars": 24,
             "topics": []
           },
           "first_seen": "2026-11-18T03:44:42.868Z"
@@ -2046,7 +2046,7 @@
             "open_issues": 30,
             "owner": "Human-Agent-Society",
             "repo": "CORAL",
-            "stars": 1136,
+            "stars": 1138,
             "topics": [
               "agent-framework",
               "agent-orchestration",
@@ -2298,7 +2298,7 @@
             "open_issues": 1,
             "owner": "Xyz-yuanhf",
             "repo": "formuevo",
-            "stars": 11,
+            "stars": 13,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -3157,7 +3157,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T03:44:42.868Z",
+    "last_updated": "2026-11-19T03:41:42.563Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
