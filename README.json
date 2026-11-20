@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "microsoft",
             "repo": "OptiGuide",
-            "stars": 733,
+            "stars": 734,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -61,7 +61,7 @@
             "open_issues": 6,
             "owner": "google-deepmind",
             "repo": "opro",
-            "stars": 793,
+            "stars": 792,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -82,7 +82,7 @@
             "open_issues": 2,
             "owner": "xzymustbexzy",
             "repo": "Chain-of-Experts",
-            "stars": 124,
+            "stars": 125,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -103,7 +103,7 @@
             "open_issues": 4,
             "owner": "teshnizi",
             "repo": "OptiMUS",
-            "stars": 308,
+            "stars": 309,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -166,7 +166,7 @@
             "open_issues": 9,
             "owner": "google-deepmind",
             "repo": "funsearch",
-            "stars": 1149,
+            "stars": 1150,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -840,7 +840,7 @@
             "id": 984420869,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T00:05:58Z",
+            "last_commit": "2026-11-20T02:44:50Z",
             "open_issues": 2,
             "owner": "SakanaAI",
             "repo": "ALE-Bench",
@@ -882,11 +882,11 @@
             "id": 984096689,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T03:43:05Z",
-            "open_issues": 95,
+            "last_commit": "2026-11-19T05:05:51Z",
+            "open_issues": 96,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7809,
+            "stars": 7821,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -1175,11 +1175,11 @@
             "id": 1058901043,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T17:11:35Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-19T16:40:17Z",
+            "open_issues": 0,
             "owner": "SakanaAI",
             "repo": "ShinkaEvolve",
-            "stars": 1525,
+            "stars": 1527,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -2046,7 +2046,7 @@
             "open_issues": 30,
             "owner": "Human-Agent-Society",
             "repo": "CORAL",
-            "stars": 1138,
+            "stars": 1142,
             "topics": [
               "agent-framework",
               "agent-orchestration",
@@ -2588,7 +2588,7 @@
             "open_issues": 0,
             "owner": "PJ-NTU",
             "repo": "LACE",
-            "stars": 37,
+            "stars": 38,
             "topics": []
           },
           "first_seen": "2026-10-16T00:30:17.871Z"
@@ -3157,7 +3157,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T03:41:42.563Z",
+    "last_updated": "2026-11-20T03:34:14.227Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
