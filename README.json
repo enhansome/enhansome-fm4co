@@ -166,7 +166,7 @@
             "open_issues": 9,
             "owner": "google-deepmind",
             "repo": "funsearch",
-            "stars": 1150,
+            "stars": 1152,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -297,7 +297,7 @@
             "open_issues": 7,
             "owner": "FeiLiu36",
             "repo": "EoH",
-            "stars": 381,
+            "stars": 383,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -882,11 +882,11 @@
             "id": 984096689,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T05:05:51Z",
-            "open_issues": 96,
+            "last_commit": "2026-11-20T14:49:55Z",
+            "open_issues": 94,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7821,
+            "stars": 7832,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -990,7 +990,7 @@
             "open_issues": 0,
             "owner": "langkhachhoha",
             "repo": "MPaGE",
-            "stars": 33,
+            "stars": 34,
             "topics": [
               "automatic-algorithm-design",
               "capacitated-vehicle-routing-problem",
@@ -1175,11 +1175,11 @@
             "id": 1058901043,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T16:40:17Z",
+            "last_commit": "2026-11-20T17:58:56Z",
             "open_issues": 0,
             "owner": "SakanaAI",
             "repo": "ShinkaEvolve",
-            "stars": 1527,
+            "stars": 1528,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1354,7 +1354,7 @@
             "id": 1013668830,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-09T03:59:07Z",
+            "last_commit": "2026-11-20T21:14:39Z",
             "open_issues": 1,
             "owner": "CoraLiang01",
             "repo": "lean-llm-opt",
@@ -1531,7 +1531,7 @@
             "open_issues": 33,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 766,
+            "stars": 768,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1552,7 +1552,7 @@
             "open_issues": 33,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 766,
+            "stars": 768,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -2046,7 +2046,7 @@
             "open_issues": 30,
             "owner": "Human-Agent-Society",
             "repo": "CORAL",
-            "stars": 1142,
+            "stars": 1141,
             "topics": [
               "agent-framework",
               "agent-orchestration",
@@ -2298,7 +2298,7 @@
             "open_issues": 1,
             "owner": "Xyz-yuanhf",
             "repo": "formuevo",
-            "stars": 13,
+            "stars": 14,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -2588,7 +2588,7 @@
             "open_issues": 0,
             "owner": "PJ-NTU",
             "repo": "LACE",
-            "stars": 38,
+            "stars": 39,
             "topics": []
           },
           "first_seen": "2026-10-16T00:30:17.871Z"
@@ -2698,7 +2698,7 @@
             "open_issues": 0,
             "owner": "NineAbyss",
             "repo": "OR-License",
-            "stars": 205,
+            "stars": 145,
             "topics": []
           },
           "first_seen": "2026-11-18T03:44:42.868Z"
@@ -2761,7 +2761,7 @@
             "open_issues": 0,
             "owner": "ZRay1213",
             "repo": "ORSMT",
-            "stars": 3,
+            "stars": 4,
             "topics": []
           },
           "first_seen": "2026-11-18T03:44:42.868Z"
@@ -3157,7 +3157,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T03:34:14.227Z",
+    "last_updated": "2026-11-21T03:17:20.592Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
