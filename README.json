@@ -166,7 +166,7 @@
             "open_issues": 9,
             "owner": "google-deepmind",
             "repo": "funsearch",
-            "stars": 1152,
+            "stars": 1153,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -882,11 +882,11 @@
             "id": 984096689,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T14:49:55Z",
-            "open_issues": 94,
+            "last_commit": "2026-11-21T23:02:34Z",
+            "open_issues": 92,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7832,
+            "stars": 7839,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -1179,7 +1179,7 @@
             "open_issues": 0,
             "owner": "SakanaAI",
             "repo": "ShinkaEvolve",
-            "stars": 1528,
+            "stars": 1530,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1531,7 +1531,7 @@
             "open_issues": 33,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 768,
+            "stars": 767,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1552,7 +1552,7 @@
             "open_issues": 33,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 768,
+            "stars": 767,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -2046,7 +2046,7 @@
             "open_issues": 30,
             "owner": "Human-Agent-Society",
             "repo": "CORAL",
-            "stars": 1141,
+            "stars": 1142,
             "topics": [
               "agent-framework",
               "agent-orchestration",
@@ -2435,7 +2435,7 @@
             "open_issues": 0,
             "owner": "AIOR-Research",
             "repo": "SOLID",
-            "stars": 2,
+            "stars": 3,
             "topics": [
               "machine-learning",
               "operations-research",
@@ -3157,7 +3157,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T03:17:20.592Z",
+    "last_updated": "2026-11-22T02:22:32.970Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
