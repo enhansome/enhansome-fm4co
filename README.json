@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "microsoft",
             "repo": "OptiGuide",
-            "stars": 736,
+            "stars": 737,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -771,7 +771,7 @@
             "open_issues": 1,
             "owner": "Cardinal-Operations",
             "repo": "SIRL",
-            "stars": 69,
+            "stars": 70,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -883,10 +883,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-23T00:50:42Z",
-            "open_issues": 92,
+            "open_issues": 94,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7847,
+            "stars": 7860,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -1175,11 +1175,11 @@
             "id": 1058901043,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T17:58:56Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-23T22:10:27Z",
+            "open_issues": 1,
             "owner": "SakanaAI",
             "repo": "ShinkaEvolve",
-            "stars": 1535,
+            "stars": 1539,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -2046,7 +2046,7 @@
             "open_issues": 30,
             "owner": "Human-Agent-Society",
             "repo": "CORAL",
-            "stars": 1147,
+            "stars": 1149,
             "topics": [
               "agent-framework",
               "agent-orchestration",
@@ -2567,7 +2567,7 @@
             "open_issues": 0,
             "owner": "HenryZhu1029",
             "repo": "SimpleEvol-Master",
-            "stars": 5,
+            "stars": 6,
             "topics": []
           },
           "first_seen": "2026-10-16T00:30:17.871Z"
@@ -2588,7 +2588,7 @@
             "open_issues": 0,
             "owner": "PJ-NTU",
             "repo": "LACE",
-            "stars": 39,
+            "stars": 40,
             "topics": []
           },
           "first_seen": "2026-10-16T00:30:17.871Z"
@@ -3157,7 +3157,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T02:54:53.350Z",
+    "last_updated": "2026-11-24T06:10:05.621Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
