@@ -99,7 +99,7 @@
             "id": 701024182,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2025-11-04T17:10:14Z",
+            "last_commit": "2026-11-27T15:03:32Z",
             "open_issues": 4,
             "owner": "teshnizi",
             "repo": "OptiMUS",
@@ -840,7 +840,7 @@
             "id": 984420869,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T02:27:14Z",
+            "last_commit": "2026-11-27T06:10:42Z",
             "open_issues": 2,
             "owner": "SakanaAI",
             "repo": "ALE-Bench",
@@ -882,11 +882,11 @@
             "id": 984096689,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T12:50:25Z",
-            "open_issues": 98,
+            "last_commit": "2026-11-28T02:10:58Z",
+            "open_issues": 99,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7873,
+            "stars": 7879,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -1176,10 +1176,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-26T12:49:44Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "SakanaAI",
             "repo": "ShinkaEvolve",
-            "stars": 1546,
+            "stars": 1550,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1228,7 +1228,7 @@
         },
         {
           "node_type": "item",
-          "title": "science-codeevolve",
+          "title": "codeevolve",
           "description": "CodeEvolve: an open source evolutionary coding agent for algorithm discovery and optimization  arXiv Algorithm",
           "children": [],
           "repo_info": {
@@ -1240,8 +1240,8 @@
             "license": "Apache-2.0",
             "last_commit": "2026-11-11T15:44:42Z",
             "open_issues": 0,
-            "owner": "inter-co",
-            "repo": "science-codeevolve",
+            "owner": "inter-science",
+            "repo": "codeevolve",
             "stars": 159,
             "topics": [
               "alpha-evolve",
@@ -1341,27 +1341,6 @@
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
-        },
-        {
-          "node_type": "item",
-          "title": "lean-llm-opt",
-          "description": "Large-Scale Optimization Model Auto-Formulation: Harnessing LLM Flexibility via Structured Workflow  arXiv Formulation",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1013668830,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-11-20T21:14:39Z",
-            "open_issues": 1,
-            "owner": "CoraLiang01",
-            "repo": "lean-llm-opt",
-            "stars": 10,
-            "topics": []
-          },
-          "first_seen": "2026-11-18T03:44:42.868Z"
         },
         {
           "node_type": "item",
@@ -1531,7 +1510,7 @@
             "open_issues": 35,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 775,
+            "stars": 776,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1552,7 +1531,7 @@
             "open_issues": 35,
             "owner": "skydiscover-ai",
             "repo": "skydiscover",
-            "stars": 775,
+            "stars": 776,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1594,7 +1573,7 @@
             "open_issues": 1,
             "owner": "ra-MANUJ-an",
             "repo": "pyvrp-code",
-            "stars": 2,
+            "stars": 3,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -1934,7 +1913,7 @@
             "open_issues": 8,
             "owner": "Minw913",
             "repo": "FrontierOR",
-            "stars": 47,
+            "stars": 48,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:23.628Z"
@@ -2588,7 +2567,7 @@
             "open_issues": 0,
             "owner": "PJ-NTU",
             "repo": "LACE",
-            "stars": 41,
+            "stars": 42,
             "topics": []
           },
           "first_seen": "2026-10-16T00:30:17.871Z"
@@ -3157,7 +3136,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T04:20:45.225Z",
+    "last_updated": "2026-11-28T04:01:16.275Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent research papers about Foundation Models for Combinatorial Optimization",
